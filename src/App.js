@@ -70,6 +70,104 @@ export default class App extends React.Component {
               borderBottom: "1px solid grey"
             }}
           >
+            You cannot call an election by extrapolating before shuffling the
+            marble-cake-state that is NJ (38% voting-age non-voters, 28%
+            registered-non-voters) #SAVERPARTY202X
+            <div
+              style={{
+                fontWeight: "bolder",
+                backgroundColor: "white",
+                margin: "4px",
+                color: "grey"
+              }}
+            >
+              Nor announce early voting results in a tranched way. ANYWAY
+              content-addressable ArrayArrays is my method of voting I invented,
+              should work. Uid in array, way+uid or abstract on-device id
+              anonymous to cloud, or public...
+            </div>
+          </div>
+          40% of government roads goes to debt service to NJ, how could
+          Republicans want government to own them instead of
+          target-margin-networks of finite producers... all parties other than
+          @SaverParty want growth of GDP/pop, for what? trueGDP is without m2
+          minus currencyComponentOfM1 - efficiency is higher
+          inverse-home-prices/hours-worked. We have an influx of 75+/45-64 and
+          they had their whole lives to save&nbsp;
+          <a href="https://saverparty.xyz">@SaverParty</a>
+          <div
+            style={{
+              backgroundColor: "rgb(20,190,20)",
+              color: "rgb(230,230,230)",
+              borderBottom: "1px solid grey"
+            }}
+          >
+            BOTTOM IS BEST
+            <div
+              style={{
+                fontWeight: "bolder",
+                backgroundColor: "white",
+                margin: "4px",
+                color: "grey"
+              }}
+            >
+              Government needs to target margins, not own the roads, why do
+              republicans want to gentrify the roads, water pipes and broadband
+              instead of target margin networks and finite producers
+            </div>
+          </div>
+          <TwitterTweetEmbed
+            key="1428797720546906113"
+            tweetId="1428797720546906113"
+          />
+          3% under $2k max $60 for sewage-police without federal-ownership, just
+          stewardship... truncated sales tax on spoofable-geohash
+          <br />
+          <br />
+          Nothing unforeseeable is possible - Useless Price inelasticity and
+          false ownership
+          <br />
+          <br />
+          Fund sewage police, not free-rider-mutables and gentrify for m2
+          laundering, third-party-beneficiary standings of @SaverParty to
+          BondIndexFunds: BondVigilantes and Millennials unite against 20x
+          rental-income per capita!
+          <br />
+          <div
+            style={{
+              backgroundColor: "rgb(20,190,20)",
+              color: "rgb(230,230,230)",
+              borderBottom: "1px solid grey"
+            }}
+          >
+            GLOBAL STEWARDSHIP OF LOCAL POWER BY RECEIPTS AND OUTLAYS
+            <div
+              style={{
+                fontWeight: "bolder",
+                backgroundColor: "white",
+                margin: "4px",
+                color: "grey"
+              }}
+            >
+              By protocol of spoofable geohash at payment terminals, I'm
+              building mvp for it at vaumoney
+            </div>
+          </div>
+          <br />
+          School systems are always trade secrets and prohibiting kids from
+          earning money; also, abjectly laundering to bond index funds, the only
+          way to make a deal for "welfare" gentrification for existing biz
+          <TwitterTweetEmbed
+            key="1428796702832594952"
+            tweetId="1428796702832594952"
+          />
+          <div
+            style={{
+              backgroundColor: "rgb(20,190,20)",
+              color: "rgb(230,230,230)",
+              borderBottom: "1px solid grey"
+            }}
+          >
             Bankruptcy should return down payments for LOSING
             <div
               style={{
@@ -81,7 +179,7 @@ export default class App extends React.Component {
             >
               #WelfareIsWarmongering & price-fixing/quota communism instead of
               settled-surplus-value (non-profit, unlimited margin....), & cancel
-              is either usurped-saver-bailout or reversem2laundering
+              is either share-split-bailout or reversem2laundering
             </div>
           </div>
           <br />
