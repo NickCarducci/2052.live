@@ -252,7 +252,8 @@ export default class App extends React.Component {
           <br />
           <br />
           The scope of the government is #FreePeopleLawsuits & never
-          #FreeRiderMutables
+          #FreeRiderMutables,&nbsp;
+          <a href="https://nationalsecuritycasino.com">Article 4</a>
           <TwitterTweetEmbed
             key="1428487028036014080"
             tweetId="1428487028036014080"
@@ -266,8 +267,7 @@ export default class App extends React.Component {
           <a href="https://humanharvest.info">Exclusion</a>&nbsp;requred a
           court-order, of which requires logistical-proof; else is free-rider-
           <a href="https://residualsplit.us">servitude</a>
-          &nbsp;fraud on&nbsp;
-          <a href="https://nationalsecuritycasino.com">usurped grounds</a>
+          &nbsp;fraud on usurped grounds
           <div style={{ backgroundColor: "rgb(218,90,90)" }}>
             The new Bernie Madoffs like @fdic ? @paynecmwealth no money is
             hidden
@@ -654,8 +654,8 @@ export default class App extends React.Component {
           </h4>
           <br />
           As of now, I see the left of the political compass of Green, Saver,
-          Democrat, Libertarian, Republican with an ability for 40% independents
-          in U.S. really show their unity in objectivity or uprising
+          Democrat, Libertarian, Republican with an ability for 38% voting-age
+          non-voters in U.S. really show their unity in objectivity or uprising
           <br />
           <br />
           <span style={{ fontSize: "13px" }}>
