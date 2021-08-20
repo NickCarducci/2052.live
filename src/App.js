@@ -63,8 +63,16 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
-          #WelfareIsWarmongering & price-fixing/quota communism instead of 
-          settled-surplus-value (non-profit, unlimited margin....)<br />
+          #WelfareIsWarmongering & price-fixing/quota communism instead of
+          settled-surplus-value (non-profit, unlimited margin....), & cancel is
+          either usurped-saver-bailout or reversem2laundering
+          <br />
+          <br />
+          Surplus value implies it is fake, but labor _deserves profits and
+          consumters _deserve margins - Nick Carduucci,&nbsp;
+          <a href="https://bankingisnot.biz">BankingIsNot.Biz</a>
+          <br />
+          <br />
           #FundSewagePolice, #GovernmentGentrification,&nbsp;
           <a href="https://micro-theory.com">micro-theory.com</a>
           <br />
