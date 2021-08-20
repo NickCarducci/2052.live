@@ -120,6 +120,10 @@ export default class App extends React.Component {
             key="1428797720546906113"
             tweetId="1428797720546906113"
           />
+          {/**I can’t believe Blinken is sleeping at a time like this
+            🐿post-tort-socialism -spore virus protein 4 money
+            @ frothanalysis
+            Like a methane fire @ SDOT @ DHSgov #911truth #Racketeering #M2Laundering @77WABCradio */}
           3% under $2k max $60 for sewage-police without federal-ownership, just
           stewardship... truncated sales tax on spoofable-geohash
           <br />
@@ -161,6 +165,23 @@ export default class App extends React.Component {
             key="1428796702832594952"
             tweetId="1428796702832594952"
           />
+          {/**
+            Edward Snowden
+            @ Snowden
+            ·
+            Aug 20, 2021
+            Facebook's vision of the future is seen in how they steal and repackage the VRchat concept.
+            
+            They could have you meet in a designer lounge, on a tropical island, or even atop the helicopter pad of a ship at sea.
+            
+            Instead they trap you in a low-rez workplace and cut off your legs.
+            Boz
+            @ boztank
+            Horizon Workrooms is now open for collaboration, built for teams to feel like they’re together despite being apart. The tools we currently have serve people to a certain degree, but we’ve lost the ability to be creative and connected, a gap we believe Workrooms can bridge.
+            Embedded video
+            🐿post-tort-socialism -spore virus protein 4 money
+            @ frothanalysis
+            Hey uh, why didn’t you explain end to end encryption not being true until it is on device? http://Thumbprint.us/privacy you really grew into yourself! */}
           <div
             style={{
               backgroundColor: "rgb(20,190,20)",
@@ -227,6 +248,7 @@ export default class App extends React.Component {
             key="1428487028036014080"
             tweetId="1428487028036014080"
           />
+          {/**Content-addressable keyboxes are not new, merely having it as a hard-tamper-proof-key is new @ StephenM ah, sorry about that @ logindotgov http://nationalsecuritycasino.com */}
           <br />
           Why do Republicans want government to own the roads, instead of
           margin-target? @SaverParty @NickCarducci carducci.us
@@ -256,7 +278,13 @@ export default class App extends React.Component {
             Upfront fees do not cripple business it frees them if there is a
             decent after-market marketplace that isn’t futher run on credit
             counterfeit @IBM
-            <br />
+            <TwitterTweetEmbed
+              key="1428436617790955525"
+              tweetId="1428436617790955525"
+            />
+            {/**I object to old people saying, “we are enslaving our kids!” I appreciate the thought, but we can never pay the debt unless you take from http://laborequity.us & @SaverParty for http://residualsplit.us
+
+            #RepublicansAreCommunists #CreditCounterfeitLaundering */}
             <br />
             The virus comes from within nick@Thumbprint.us - Social Calendar &
             more! @viathumbprint · 21m The pores @JohnsHopkinsSPH
