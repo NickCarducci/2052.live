@@ -63,27 +63,59 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
-          #WelfareIsWarmongering & price-fixing/quota communism instead of
-          settled-surplus-value (non-profit, unlimited margin....), & cancel is
-          either usurped-saver-bailout or reversem2laundering
-          <br />
+          <div
+            style={{
+              backgroundColor: "rgb(20,190,20)",
+              color: "rgb(230,230,230)",
+              borderBottom: "1px solid grey"
+            }}
+          >
+            Bankruptcy should return down payments for LOSING
+            <div
+              style={{
+                fontWeight: "bolder",
+                backgroundColor: "white",
+                margin: "4px",
+                color: "grey"
+              }}
+            >
+              #WelfareIsWarmongering & price-fixing/quota communism instead of
+              settled-surplus-value (non-profit, unlimited margin....), & cancel
+              is either usurped-saver-bailout or reversem2laundering
+            </div>
+          </div>
           <br />
           Surplus value implies it is fake, but labor _deserves profits and
           consumters _deserve margins - Nick Carduucci,&nbsp;
-          <a href="https://bankingisnot.biz">BankingIsNot.Biz</a>
+          <a href="https://bankingisnot.biz">BankingIsNot.Biz</a>. Marx is
+          originally & more conservative so in there of eternally than Mises
           <br />
           <br />
           #FundSewagePolice, #GovernmentGentrification,&nbsp;
           <a href="https://micro-theory.com">micro-theory.com</a>
           <br />
           <br />
-          Protect yourself, do not unionize for non-rollover invoices are theft
-          or dues
-          <br />
-          <br />
-          There is not infinite producers, discrimination is
-          involuntary-servitude
-          <br />
+          <div
+            style={{
+              backgroundColor: "rgb(20,190,20)",
+              color: "rgb(230,230,230)",
+              borderBottom: "1px solid grey"
+            }}
+          >
+            Protect yourself: do not unionize for non-rollover invoices are
+            theft or dues
+            <div
+              style={{
+                fontWeight: "bolder",
+                backgroundColor: "white",
+                margin: "4px",
+                color: "grey"
+              }}
+            >
+              There is not infinite producers, discrimination is
+              involuntary-servitude
+            </div>
+          </div>
           <br />
           Problem Solvers' caucus is #GovernmentMonopsony
           #GovernmentGentriciation #MillennialIncomeDeficit
