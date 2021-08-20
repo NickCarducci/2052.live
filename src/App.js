@@ -63,6 +63,12 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
+          Cornering the market is competing with consumers
+          <br />
+          <br />
+          Pareto-efficiency and classical-socialism is when supply == demand
+          <br />
+          <br />
           <div
             style={{
               backgroundColor: "rgb(20,190,20)",
@@ -87,6 +93,7 @@ export default class App extends React.Component {
               anonymous to cloud, or public...
             </div>
           </div>
+          <br />
           40% of government roads goes to debt service to NJ, how could
           Republicans want government to own them instead of
           target-margin-networks of finite producers... all parties other than
@@ -95,6 +102,8 @@ export default class App extends React.Component {
           inverse-home-prices/hours-worked. We have an influx of 75+/45-64 and
           they had their whole lives to save&nbsp;
           <a href="https://saverparty.xyz">@SaverParty</a>
+          <br />
+          <br />
           <div
             style={{
               backgroundColor: "rgb(20,190,20)",
