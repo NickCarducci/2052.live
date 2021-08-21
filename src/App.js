@@ -63,7 +63,8 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
-          GDP/p constant . inverse-home-prices/hours-worked
+          GDP/p constant .&nbsp;
+          <a href="https://vaults.biz">inverse-home-prices/hours-worked</a>
           <br />
           <br />
           <div
