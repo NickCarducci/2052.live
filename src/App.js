@@ -139,9 +139,9 @@ export default class App extends React.Component {
           </div>
           501c3 are #GovernmentMonopsony, not a non-profit @IRSnews,
           #BondVigilantes, #ComparativeAdvantageDefense,&nbsp;
-          <a href="https://vau.money">3% under $2k max $60 spoofable-geohash</a>,
-          Net export sellout uh public-park depositary 1/44 a.k.a. 4400% or 44x!
-          Aaaaaaalirght treasury-shares have scruples too
+          <a href="https://vau.money">3% under $2k max $60 spoofable-geohash</a>
+          , Net export sellout uh public-park depositary 1/44 a.k.a. 4400% or
+          44x! Aaaaaaalirght treasury-shares have scruples too
           <br />
           <br />
           <div
@@ -180,6 +180,13 @@ export default class App extends React.Component {
               outlay-scope, #BipartisanMonopsony
             </div>
           </div>
+          <br />
+          . @larry_kudlow , fmr NEC Dir. calling bond write downs by
+          @federalreserve as,” withdrawing from the market.” @FTC #cfius does
+          treasury represent people only when they’re taxing, not being
+          steady-stewards? @SaverParty #MarxismIsParetoEfficient
+          #MarginsAreConsumers #ConsumerTwitter
+          <br />
           <br />
           Cornering the market is competing with consumers
           <br />
