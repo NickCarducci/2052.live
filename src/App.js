@@ -179,7 +179,8 @@ export default class App extends React.Component {
           Cornering the market is competing with consumers
           <br />
           <br />
-          Pareto-efficiency and classical-socialism is when supply == demand
+          Pareto-efficiency and classical-socialism is when supply == demand,
+          any margin is dead-weight in a finite-producer world
           <br />
           <br />
           <div
