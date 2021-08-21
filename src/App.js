@@ -63,12 +63,45 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
-          The Government NEEDS to be overthrown if they break Article 3 &
-          Tranquility in the preamble for domestic enemies of
-          intentional-harming lenders, insurers and
-          front-running+non-improved+non-rollover, implausible-use landlords
-          outlay-scope, #BipartisanMonopsony
+          GDP/p constant . inverse-home-prices/hours-worked
           <br />
+          <br />
+          <div
+            style={{
+              backgroundColor: "rgb(20,190,20)",
+              color: "rgb(230,230,230)",
+              borderBottom: "1px solid grey"
+            }}
+          >
+            not&nbsp;
+            <span role="img" aria-label="rose">
+              &#x1F339;
+            </span>
+            <span role="img" aria-label="sock">
+              &#x1F9E6;
+            </span>
+            , one would represent purebred&nbsp;
+            <span role="img" aria-label="squirrel">
+              🐿
+            </span>
+            <br />
+            ☭ these aren’t our tools, but they are our margins #ConsumerTwitter
+            <br />
+            <div
+              style={{
+                fontWeight: "bolder",
+                backgroundColor: "white",
+                margin: "4px",
+                color: "grey"
+              }}
+            >
+              The Government NEEDS to be overthrown if they break Article 3 &
+              Tranquility in the preamble for domestic enemies of
+              intentional-harming lenders, insurers and
+              front-running+non-improved+non-rollover, implausible-use landlords
+              outlay-scope, #BipartisanMonopsony
+            </div>
+          </div>
           <br />
           Cornering the market is competing with consumers
           <br />
