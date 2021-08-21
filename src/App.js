@@ -63,8 +63,10 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
-          The Government NEEDS to be overthrown if they break Article 3
-          outlay-scope, #BipartisanMonopsony
+          The Government NEEDS to be overthrown if they break Article 3 &
+          Tranquility in the preamble for domestic enemies of
+          intentional-harming lenders, insurers and front-running,
+          implausible-use landlords outlay-scope, #BipartisanMonopsony
           <br />
           <br />
           Cornering the market is competing with consumers
