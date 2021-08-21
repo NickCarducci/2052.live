@@ -63,6 +63,10 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
+          The Government NEEDS to be overthrown if they break Article 3
+          outlay-scope, #BipartisanMonopsony
+          <br />
+          <br />
           Cornering the market is competing with consumers
           <br />
           <br />
