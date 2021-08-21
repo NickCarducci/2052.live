@@ -63,6 +63,37 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
+          <div
+            style={{
+              backgroundColor: "rgb(220,100,80)",
+              color: "rgb(230,230,230)",
+              borderBottom: "1px solid grey"
+            }}
+          >
+            FDA is ignoring prevalence of lymphomatic-node discharging of the
+            mRNA-sporing-graphs,
+            <div
+              style={{
+                fontWeight: "bolder",
+                backgroundColor: "white",
+                margin: "4px",
+                color: "grey"
+              }}
+            >
+              In 17 of the vaccinated patients with HLN (5.1%), the “hot” nodes
+              reflected&nbsp;
+              <a href="https://link.springer.com/article/10.1007/s00259-021-05314-2#:~:text=In%20332">
+                malignant nodal disease
+              </a>
+              &nbsp;(MHL) An estimated 1,297,027 people in the US are either
+              living with, or are in remission from, &nbsp;
+              <a href="https://www.lls.org/facts-and-statistics/facts-and-statistics-overview#:~:text=Prevalence">
+                leukemia, lymphoma or myeloma
+              </a>
+              .
+            </div>
+          </div>
+          <br />
           GDP/p constant .&nbsp;
           <a href="https://vaults.biz">inverse-home-prices/hours-worked</a>
           <br />
