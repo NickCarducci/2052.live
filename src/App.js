@@ -85,12 +85,49 @@ export default class App extends React.Component {
               <a href="https://link.springer.com/article/10.1007/s00259-021-05314-2#:~:text=In%20332">
                 malignant nodal disease
               </a>
-              &nbsp;(MHL) An estimated 1,297,027 people in the US are either
+              &nbsp;(MHL). An estimated 1,297,027 people in the US are either
               living with, or are in remission from, &nbsp;
               <a href="https://www.lls.org/facts-and-statistics/facts-and-statistics-overview#:~:text=Prevalence">
                 leukemia, lymphoma or myeloma
               </a>
               .
+            </div>
+          </div>
+          void-antigen {"=>"} Lymphoma nodal leakage caused by void-antigen,
+          how? Idk and&nbsp;
+          <span style={{ textDecoration: "underline" }}>
+            that was my initial concern
+          </span>
+          , but idk what&nbsp;
+          <span style={{ textDecoration: "underline" }}>
+            a malignant hot node
+          </span>
+          &nbsp;looks like, lo it is larger by 2% than the population estimate
+          of lymphoma and melanoma
+          <br />
+          Virons are byproducts,&nbsp;
+          <a href="https://froth.app">bacteria cause sickness</a>
+          <br />
+          <div
+            style={{
+              backgroundColor: "rgb(120,100,250)",
+              color: "rgb(230,230,230)",
+              borderBottom: "1px solid grey"
+            }}
+          >
+            Long-term usually-means written-down price-fixes, #Degrowth,
+            #BipartisanGerontocracy
+            <br />
+            <div
+              style={{
+                fontWeight: "bolder",
+                backgroundColor: "white",
+                margin: "4px",
+                color: "grey"
+              }}
+            >
+              GDP/p constant .&nbsp;
+              <a href="https://vaults.biz">inverse-home-prices/hours-worked</a>
             </div>
           </div>
           <br />
