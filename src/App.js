@@ -133,7 +133,8 @@ export default class App extends React.Component {
             >
               GDP/p constant .&nbsp;
               <a href="https://vaults.biz">inverse-home-prices/hours-worked</a>
-              &nbsp;. invoices are theft
+              &nbsp;. down-payments are deposits, not options . invoices are
+              theft
             </div>
           </div>
           501c3 are #GovernmentMonopsony, not a non-profit @IRSnews,
