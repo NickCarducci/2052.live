@@ -108,6 +108,7 @@ export default class App extends React.Component {
           Virons are byproducts,&nbsp;
           <a href="https://froth.app">bacteria cause sickness</a>
           <br />
+          <br />
           <div
             style={{
               backgroundColor: "rgb(120,100,250)",
@@ -128,11 +129,10 @@ export default class App extends React.Component {
             >
               GDP/p constant .&nbsp;
               <a href="https://vaults.biz">inverse-home-prices/hours-worked</a>
+              &nbsp;. invoices are theft
             </div>
           </div>
-          <br />
-          GDP/p constant .&nbsp;
-          <a href="https://vaults.biz">inverse-home-prices/hours-worked</a>
+          501c3 are #GovernmentMonopsony, not a non-profit @IRSnews
           <br />
           <br />
           <div
