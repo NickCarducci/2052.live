@@ -65,8 +65,9 @@ export default class App extends React.Component {
         >
           The Government NEEDS to be overthrown if they break Article 3 &
           Tranquility in the preamble for domestic enemies of
-          intentional-harming lenders, insurers and front-running+non-improved,
-          implausible-use landlords outlay-scope, #BipartisanMonopsony
+          intentional-harming lenders, insurers and
+          front-running+non-improved+non-rollover, implausible-use landlords
+          outlay-scope, #BipartisanMonopsony
           <br />
           <br />
           Cornering the market is competing with consumers
