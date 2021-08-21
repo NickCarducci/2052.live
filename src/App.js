@@ -132,7 +132,11 @@ export default class App extends React.Component {
               &nbsp;. invoices are theft
             </div>
           </div>
-          501c3 are #GovernmentMonopsony, not a non-profit @IRSnews
+          501c3 are #GovernmentMonopsony, not a non-profit @IRSnews,
+          #BondVigilantes, #ComparativeAdvantageDefense,&nbsp;
+          <a href="https://vaumoney">3% under $2k max $60 spoofable-geohash</a>,
+          Net export sellout uh public-park depositary 1/44 a.k.a. 4400% or 44x!
+          Aaaaaaalirght treasury-shares have scruples too
           <br />
           <br />
           <div
