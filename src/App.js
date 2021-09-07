@@ -63,6 +63,30 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
+          <TwitterTweetEmbed
+            key="1435265064509050880"
+            tweetId="1435265064509050880"
+          />
+          <TwitterTweetEmbed
+            key="1433802945225707526"
+            tweetId="1433802945225707526"
+          />
+          <TwitterTweetEmbed
+            key="1433820799908163585"
+            tweetId="1433820799908163585"
+          />
+          You get a prize for being the&nbsp;
+          <a href="https://froth.app/stats">greatest yeast-cleaner</a>, tho
+          <br />
+          <br />
+          The Great Leap Forward had 16m excess deaths
+          <br />
+          <br />
+          <TwitterTweetEmbed
+            key="1433877605606952965"
+            tweetId="1433877605606952965"
+          />
+          <br />
           Is all&nbsp;<a href="https://lightte.ch">government gentrification</a>
           , existing biz (abject) m2 laundering (intent)?
           <br />
