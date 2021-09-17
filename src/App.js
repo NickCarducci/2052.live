@@ -63,6 +63,15 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
+          1.6 educated persons for every voter, invoices are theft, insurance
+          withour rollover is competing with consumers for useless price
+          inelasticity
+          <br />
+          <br />
+          just because antibody creation is correlated with illness, doesn't
+          mean virus is the cause. Where does the first virus come from? From
+          bacteria. Under an electron microscope, we see proteins of virus
+          coming out of the cell, never have we seen the whole virus on the move
           <TwitterTweetEmbed
             key="1435265064509050880"
             tweetId="1435265064509050880"
