@@ -63,9 +63,21 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
-          1.6 educated persons for every voter, invoices are theft, insurance
-          withour rollover is competing with consumers for useless price
-          inelasticity
+          <a href="https://www.census.gov/library/stories/2018/07/educational-attainment.html#:~:text=This,%20in%20part,%20reflects%20the%20age">
+            1.6 educated persons
+          </a>
+          &nbsp;for every voter, invoices are theft, insurance withour rollover
+          is competing with consumers for useless price inelasticity. you might
+          think this means there are many uneduated that are voters, but that is
+          only because we are equating these two by dividing them, but their
+          other's basis is bound to another variable, the incidence of going to
+          school and voting is shared by&nbsp;
+          <a href="http://www.electproject.org/home/voter-turnout/demographics">
+            prevalence of race
+          </a>
+          , is one from the other, or is order not necessary got incicdences
+          except for a logical-creation-story can be established. For Virus, at
+          least, no doctor will be able to tell you where virus comes from.
           <br />
           <br />
           just because antibody creation is correlated with illness, doesn't
