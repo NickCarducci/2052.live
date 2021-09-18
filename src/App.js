@@ -63,6 +63,13 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
+          clarence thomas wants blind faith in the legal institutions, even
+          though malfeasant in third-party beneficiary, foreseeable
+          impossibility is intent, as is non-rollover pooling-duress abetted by
+          said invoices that are theft of third party beneficiary or consent in
+          contract and voluntary trade of a minimal viable product, otherwise is
+          just duress beyond reasonable-product which finite producers cannot
+          self-regulate, as an onset of target-margin-networks would invite, too
           <a href="https://www.census.gov/library/stories/2018/07/educational-attainment.html#:~:text=This,%20in%20part,%20reflects%20the%20age">
             1.6 educated persons
           </a>
