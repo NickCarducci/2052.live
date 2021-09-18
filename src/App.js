@@ -82,7 +82,7 @@ export default class App extends React.Component {
           <a href="http://www.electproject.org/home/voter-turnout/demographics">
             prevalence of race
           </a>
-          , is one from the other, or is order not necessary got incicdences
+          , is one from the other, or is order not necessary for incidences
           except for a logical-creation-story can be established. For Virus, at
           least, no doctor will be able to tell you where virus comes from.
           <br />
