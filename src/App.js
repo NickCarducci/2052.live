@@ -98,6 +98,14 @@ export default class App extends React.Component {
           least, no doctor will be able to tell you where virus comes from.
           <br />
           <br />
+          <iframe
+            style={{ width: "100%" }}
+            src="https://www.youtube.com/embed/MTM2Pw73Ol0"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
           just because antibody creation is correlated with illness, doesn't
           mean virus is the cause. Where does the first virus come from? From
           bacteria. Under an electron microscope, we see proteins of virus
