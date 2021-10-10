@@ -28,6 +28,7 @@ class FraudMoney extends React.Component {
         >
           {!this.props.iframe && (
             <iframe
+            loading="lazy"
               style={{
                 width: "550px",
                 height: "700px"
