@@ -8,6 +8,7 @@ export default class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
+      iframed: true,
       marginTop: 200
       //marginTop: window.innerWidth * (window.innerHeight / window.innerWidth)
     };
@@ -16,6 +17,20 @@ export default class App extends React.Component {
   componentDidMount = () => {
     window.addEventListener("resize", this.resize);
     this.resize();
+    //Check if the page is loaded in an iframe
+    if (window.self !== window.top) {
+      //Almost all browsers will deny Cross-Origin script access, so
+      //we will use a try-catch block
+      this.setState({ iframed: true });
+      /* try {
+          if (window.parent.location.hostname.indexOf("vaults.biz") === -1) {
+          } else {
+            //You are in an iframe but Same-Origin
+          }
+        } catch (ex) {
+          //Congrats, you are in an iframe loaded in another site!
+        }*/
+    } else this.setState({ iframed: false });
   };
   componentWillUnmount = () => {
     window.removeEventListener("resize", this.resize);
@@ -26,7 +41,7 @@ export default class App extends React.Component {
     });
   };
   render() {
-    const { marginTop } = this.state;
+    const { marginTop, iframed } = this.state;
     return (
       <div
         style={{
@@ -71,7 +86,7 @@ export default class App extends React.Component {
             src="https://www.youtube.com/embed/m55ZAB47LHg"
             title="YouTube video player"
             frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen
           ></iframe>
           clarence thomas wants blind faith in the legal institutions, even
@@ -103,7 +118,7 @@ export default class App extends React.Component {
             src="https://www.youtube.com/embed/MTM2Pw73Ol0"
             title="YouTube video player"
             frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen
           ></iframe>
           just because antibody creation is correlated with illness, doesn't
@@ -805,7 +820,7 @@ export default class App extends React.Component {
           please state sample size (n) - 40% military TURNED IT DOWN
           <h1>2052.live: unpaid reporters and judges</h1>
           <div>
-            <FraudMoney />
+            <FraudMoney iframed={iframed} />
           </div>
           The top 20% of people by wealth is way diff than the top 20%
           percentile of wealth
