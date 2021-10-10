@@ -26,16 +26,18 @@ class FraudMoney extends React.Component {
             left: "0px"
           }}
         >
-          <iframe
-            style={{
-              width: "550px",
-              height: "700px"
-            }}
-            title="$70k/yr printed, $300k/yr promised"
-            src={`https://fred.stlouisfed.org/graph/graph-landing.php?g=D2jW&width=500&height=600`}
-            scrolling="no"
-            className="embed-container1"
-          />
+          {!this.props.iframe && (
+            <iframe
+              style={{
+                width: "550px",
+                height: "700px"
+              }}
+              title="$70k/yr printed, $300k/yr promised"
+              src={`https://fred.stlouisfed.org/graph/graph-landing.php?g=D2jW&width=500&height=600`}
+              scrolling="no"
+              className="embed-container1"
+            />
+          )}
         </div>
       </div>
     );
