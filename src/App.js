@@ -192,7 +192,7 @@ export default class App extends React.Component {
           <span style={{ textDecoration: "underline" }}>
             a malignant hot node
           </span>
-          &nbsp;looks like, lo it is larger by 2% than the population estimate
+          &nbsp;looks like, lo it is larger by 4.8% than the population estimate
           of lymphoma and melanoma
           <br />
           Virons are byproducts,&nbsp;
