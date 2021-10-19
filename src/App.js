@@ -90,6 +90,10 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
+          there is not a socialist that would support government gentrification.
+          stop defaming abject truth for campaign fraud WABC/NewsMax
+          <br />
+          <br />
           $15 super chat is $28.50 with Apple fees
           <br />
           finite producers don't wanna be saved, profit is a net loss
