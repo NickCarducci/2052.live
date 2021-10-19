@@ -78,6 +78,43 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
+          <div
+            style={{
+              overflowX: "auto",
+              overflowY: "hidden",
+              width: "100%",
+              maxWidth: "600px",
+              position: "relative"
+            }}
+          >
+            <img
+              style={{
+                width: "200%",
+                height: "auto",
+                minHeight: "800px",
+                minWidth: "1400px"
+              }}
+              alt="well, only cancel or bailout is forbid by prev demand & inappropriate
+              margins (employee gentrification), respectively. If $170t is market
+              cap total, $88t bond value, $2-6t cash currencyComponentOfM1 checking,
+              (yet $4t/yr fed spend is normal, go figure), and gdp without bonds is
+              1.1*currencyComponentOfM1/yr (before 3/2020), I don’t know how it is
+              possible, else is moot or purposeful to collude with the loitering
+              borrower as lender whom keep down payments upon repossession of the
+              home… except to deprogram the credit cycle to amortize payments of the
+              past to be cash:debt reduced! I’ll be pushing this for my 2025 Senate
+              petitioning run under the ballot-slogan, Truncated Sales Tax. Need 10%
+              of assembly for your party in NJ. Socialism is conservative; in what
+              world is socialism sharing the means of labor with others? Marx spoke
+              down on the credit cycle first with settled currency, and most support
+              Occupy. 38% of nj won’t turn out, they either have no one representing
+              this socialist conservative/degrowth caucus (Bottom left, Saver) or…
+              idk they don’t have time or think it is worth it. I call them 26%
+              detest & 12% eligible. Swing voters stay home! 🤍🐿🚨"
+              src="https://www.dl.dropboxusercontent.com/s/ei8otml06cacuw2/Screen%20Shot%202021-10-19%20at%2011.40.03%20AM.png?dl=0"
+            />
+          </div>
+          <br />
           for savers not tax payer vacation and bizarre accrual fulfilled is
           supply == demand without free rider mutable tax price inelasticity and
           government gentrification bond laundering of public-park-deeds
