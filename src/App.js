@@ -78,6 +78,7 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
+          $15 super chat is $28.50 with Apple fees
           <div
             style={{
               overflowX: "auto",
@@ -123,10 +124,11 @@ export default class App extends React.Component {
             style={{ width: "100%" }}
             src="https://www.youtube.com/embed/m55ZAB47LHg"
             title="YouTube video player"
-            frameborder="0"
-            allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
           ></iframe>
+          Obama and Clyburn are like, mutually exclusive and diametrically
+          opposed per glass Steagall and reverse debt:cash*income
+          <br />
+          <br />
           clarence thomas wants blind faith in the legal institutions, even
           though malfeasant in third-party beneficiary, foreseeable
           impossibility is intent, as is non-rollover pooling-duress abetted by
@@ -155,9 +157,6 @@ export default class App extends React.Component {
             style={{ width: "100%" }}
             src="https://www.youtube.com/embed/MTM2Pw73Ol0"
             title="YouTube video player"
-            frameborder="0"
-            allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
           ></iframe>
           just because antibody creation is correlated with illness, doesn't
           mean virus is the cause. Where does the first virus come from? From
