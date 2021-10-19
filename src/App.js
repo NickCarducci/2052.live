@@ -79,6 +79,15 @@ export default class App extends React.Component {
           }}
         >
           $15 super chat is $28.50 with Apple fees
+          <br />
+          finite producers don't wanna be saved, profit is a net loss
+          <br />
+          Marx spoke down first on the credit cycle with settled currency
+          socialism is conservative, supply == demand, intermediate good
+          favoritism is dead weight. in what world would socialists want to
+          spend socially another laborers' means? Leave that to Bipartisan
+          Communists and hypocritical Libertarians abound their getrification,
+          public or private
           <div
             style={{
               overflowX: "auto",
