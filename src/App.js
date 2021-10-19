@@ -65,6 +65,18 @@ export default class App extends React.Component {
             href="https://lightte.ch"
             style={{ color: "white", textDecoration: "none" }}
           >
+            consumer-side, big regulation (science consensus only)
+            <span
+              role="img"
+              aria-label="quad III - bottom left down arrow signifying consumer and labor equity protection from fractional reserve, public nor private"
+            >
+              ↙️
+            </span>
+          </a>
+          <a
+            href="https://lightte.ch"
+            style={{ color: "white", textDecoration: "none" }}
+          >
             lightte.ch
           </a>
         </div>
