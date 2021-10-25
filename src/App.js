@@ -93,7 +93,19 @@ export default class App extends React.Component {
         >
           “50% over the weekend,” Kraisman on shibu inu in lieu of whole
           1000000x total inequality, “don’t short things millennials think are
-          funny”
+          funny” (inequality isn't productive as labor exclusively supply and
+          demand without public nor private,&nbsp;
+          <a href="https://laborequity.org">
+            profits being net loss of individual labor savings
+          </a>
+          &nbsp;by normatively private communes; 8% workers are unionized,&nbsp;
+          <a href="https://fred.stlouisfed.org/graph/?g=HRsT">
+            workers being only 60% of the population always
+          </a>
+          , 90% corporates dead-weight profits y/y , debt growing $821 person a
+          day mostly private (communist-boats, not the finite-producer
+          regulation of credit-cycle sense) , rental-income being 20x/person
+          55+/millennial)
           <a href="https://saverparty.xyz">
             <img
               alt=""
