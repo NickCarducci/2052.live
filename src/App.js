@@ -169,6 +169,9 @@ export default class App extends React.Component {
             />
           </div>
           <br />
+          registering eligible voters into detest ={">"} plural-majority
+          <br />
+          <br />
           for&nbsp;<a href="https://saverparty.xyz">savers</a>&nbsp;not tax
           payer vacation and bizarre accrual fulfilled is supply == demand
           without free rider mutable tax price inelasticity and government
