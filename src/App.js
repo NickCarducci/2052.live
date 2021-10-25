@@ -90,7 +90,11 @@ export default class App extends React.Component {
             minWith: "300px",
             maxWidth: "600px"
           }}
-        >
+        >Top 3 issues, according to Charlie Kirk:
+        <br/>
+        “Republicans need church and bile investigation of how virus ever enters the cell”
+        <br/>
+        <br/>
           “50% over the weekend,” Kraisman on shibu inu in lieu of whole
           1000000x total inequality, “don’t short things millennials think are
           funny” (inequality isn't productive as labor exclusively supply and
