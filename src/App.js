@@ -53,7 +53,8 @@ export default class App extends React.Component {
         <div
           ref={this.header}
           style={{
-            textAlign: "right",
+            display: "flex",
+            justifyContent: "space-between",
             width: "100%",
             top: "0px",
             position: "fixed",
@@ -90,6 +91,20 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
+          “50% over the weekend,” Kraisman on shibu inu in lieu of whole
+          1000000x total inequality, “don’t short things millennials think are
+          funny”
+          <a href="https://saverparty.xyz">
+            <img
+              alt=""
+              style={{
+                width: "100%",
+                height: "auto"
+              }}
+              src="https://www.dl.dropboxusercontent.com/s/v4azoofpqlteytr/Screen%20Shot%202021-10-25%20at%2011.30.54%20AM.png?dl=0"
+            />
+          </a>
+          <br />
           there is not a socialist that would support government gentrification.
           stop defaming abject truth for campaign fraud WABC/NewsMax
           <br />
@@ -97,6 +112,7 @@ export default class App extends React.Component {
           $15 super chat is $28.50 with Apple fees
           <br />
           finite producers don't wanna be saved, profit is a net loss
+          <br />
           <br />
           Marx spoke down first on the credit cycle with settled currency
           socialism is conservative, supply == demand, intermediate good
