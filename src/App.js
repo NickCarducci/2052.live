@@ -8,6 +8,7 @@ export default class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
+      settleDropboxFree: true,
       iframed: true,
       marginTop: 200
       //marginTop: window.innerWidth * (window.innerHeight / window.innerWidth)
@@ -90,11 +91,13 @@ export default class App extends React.Component {
             minWith: "300px",
             maxWidth: "600px"
           }}
-        >Top 3 issues, according to Charlie Kirk:
-        <br/>
-        “Republicans need church and bile investigation of how virus ever enters the cell”
-        <br/>
-        <br/>
+        >
+          Top 3 issues, according to Charlie Kirk:
+          <br />
+          “Republicans need church and bile investigation of how virus ever
+          enters the cell”
+          <br />
+          <br />
           “50% over the weekend,” Kraisman on shibu inu in lieu of whole
           1000000x total inequality, “don’t short things millennials think are
           funny” (inequality isn't productive as labor exclusively supply and
@@ -117,7 +120,11 @@ export default class App extends React.Component {
                 width: "100%",
                 height: "auto"
               }}
-              src="https://www.dl.dropboxusercontent.com/s/v4azoofpqlteytr/Screen%20Shot%202021-10-25%20at%2011.30.54%20AM.png?dl=0"
+              src={
+                this.state.settleDropboxFree
+                  ? ""
+                  : "https://www.dl.dropboxusercontent.com/s/v4azoofpqlteytr/Screen%20Shot%202021-10-25%20at%2011.30.54%20AM.png?dl=0"
+              }
             />
           </a>
           <br />
@@ -169,10 +176,13 @@ export default class App extends React.Component {
               this socialist conservative/degrowth caucus (Bottom left, Saver) or…
               idk they don’t have time or think it is worth it. I call them 26%
               detest & 12% eligible. Swing voters stay home! 🤍🐿🚨"
-              src="https://www.dl.dropboxusercontent.com/s/ei8otml06cacuw2/Screen%20Shot%202021-10-19%20at%2011.40.03%20AM.png?dl=0"
+              src={
+                this.state.settleDropboxFree
+                  ? ""
+                  : "https://www.dl.dropboxusercontent.com/s/ei8otml06cacuw2/Screen%20Shot%202021-10-19%20at%2011.40.03%20AM.png?dl=0"
+              }
             />
           </div>
-          <br />
           registering eligible voters into detest ={">"} plural-majority
           <br />
           <br />
@@ -877,7 +887,11 @@ export default class App extends React.Component {
             <img
               style={{ width: "100%", height: "auto" }}
               alt="2021 compass, matrix [equity-protection (fractional=reserve), rent-seeking (cancel? accrual)]"
-              src="https://www.dl.dropboxusercontent.com/s/q9txz5wkr2r9ft7/4vector%20%281%29.png?dl=0"
+              src={
+                this.state.settleDropboxFree
+                  ? ""
+                  : "https://www.dl.dropboxusercontent.com/s/q9txz5wkr2r9ft7/4vector%20%281%29.png?dl=0"
+              }
             />
           </div>
           <br />
