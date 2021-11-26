@@ -1,23 +1,36 @@
 import React from "react";
 import FraudMoney from "./FraudMoney";
+import Cable from "./Dropwire";
 import LeadingCities from "./LeadingCities";
 import "./styles.css";
 import TwitterTweetEmbed from "./TwitterTweetEmbed";
+import UAParser from "ua-parser-js";
 
 export default class App extends React.Component {
   constructor(props) {
     super(props);
+    var parser = new UAParser();
+    const name = parser.getBrowser().name;
+    console.log(name);
     this.state = {
+      browser: name,
+      scrollTop: 0,
+      iosNoPhoto: name.includes("Safari"),
       settleDropboxFree: true,
       iframed: true,
       marginTop: 200
       //marginTop: window.innerWidth * (window.innerHeight / window.innerWidth)
     };
     this.header = React.createRef();
+    for (let i = 0; i < 220; i++) {
+      this["scrollImg" + i] = React.createRef();
+    }
   }
   componentDidMount = () => {
-    window.addEventListener("resize", this.resize);
-    this.resize();
+    window.addEventListener("resize", this.refresh);
+    window.addEventListener("scroll", this.handleScroll);
+    this.refresh(true);
+
     //Check if the page is loaded in an iframe
     if (window.self !== window.top) {
       //Almost all browsers will deny Cross-Origin script access, so
@@ -34,14 +47,53 @@ export default class App extends React.Component {
     } else this.setState({ iframed: false });
   };
   componentWillUnmount = () => {
-    window.removeEventListener("resize", this.resize);
+    clearTimeout(this.scrollTimeout);
+    clearTimeout(this.resizeTimer);
+    window.removeEventListener("resize", this.refresh);
+    window.removeEventListener("scroll", this.handleScroll);
   };
-  resize = () => {
-    this.setState({
-      marginTop: this.header.current.offsetHeight
-    });
+  handleScroll = (e) => {
+    if (!this.state.offScroll) {
+      const scrollTop = window.scrollY;
+      this.setState(
+        {
+          scrolling: true,
+          scrollTop
+        },
+        () => {
+          clearTimeout(this.scrollTimeout);
+          this.scrollTimeout = setTimeout(() => {
+            this.setState({
+              scrolling: false
+            });
+          }, 900);
+        }
+      );
+    }
+  };
+  refresh = (first) => {
+    const width = this.state.ios ? window.screen.availWidth : window.innerWidth;
+    if (first || Math.abs(this.state.lastWidth - width) > 0) {
+      clearTimeout(this.resizeTimer);
+      this.resizeTimer = setTimeout(() => {
+        this.setState({
+          marginTop: this.header.current.offsetHeight,
+          lastWidth: width,
+          width,
+          availableHeight: this.state.ios
+            ? window.screen.availHeight - 20
+            : window.innerHeight
+        });
+      }, 600);
+    }
   };
   render() {
+    const handleScollImgError = (e) => {
+      if (e.message) {
+        console.log(e.message);
+        this.setState({ serviceCancelingImages: true });
+      }
+    };
     const { marginTop, iframed } = this.state;
     return (
       <div
@@ -92,6 +144,30 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
+          the trumpsters are advertising against fractional reserves in public
+          and for communism in private
+          <br />
+          <Cable
+            style={{
+              width: "100%",
+              maxWidth: "400px",
+              height: "400px",
+              maxHeight: "50vw"
+            }}
+            onError={handleScollImgError}
+            src={
+              this.state.iosNoPhoto
+                ? ""
+                : "https://drive.google.com/file/d/1Wt3RAESldbeuBOkTA1MwtfCMbdtyAzEl/preview"
+            }
+            float="left"
+            title="https://constitutioncenter.org/interactive-constitution/preamble"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 1]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          <h2>the tweet</h2>
           Top 3 issues, according to Charlie Kirk:
           <br />
           “Republicans need church and bile investigation of how virus ever
@@ -154,10 +230,10 @@ export default class App extends React.Component {
           >
             <img
               style={{
-                width: "200%",
-                height: "auto",
-                minHeight: "800px",
-                minWidth: "1400px"
+                width: this.state.settleDropboxFree ? "100%" : "200%",
+                height: "min-content",
+                minHeight: this.state.settleDropboxFree ? "" : "800px",
+                minWidth: this.state.settleDropboxFree ? "" : "1400px"
               }}
               alt="well, only cancel or bailout is forbid by prev demand & inappropriate
               margins (employee gentrification), respectively. If $170t is market
