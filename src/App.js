@@ -136,6 +136,8 @@ export default class App extends React.Component {
         </div>
         <div
           style={{
+            textAlign: "left",
+            wordBreak: "break-word",
             transition: ".3s ease-in",
             margin: "10px",
             marginTop: marginTop,
@@ -144,6 +146,28 @@ export default class App extends React.Component {
             maxWidth: "600px"
           }}
         >
+          <div
+            style={{
+              width: "100%"
+            }}
+          >
+            <a
+              style={{
+                shapeOutside: "rect()",
+                float: "right",
+                width: "max-content",
+                padding: "0px 10px",
+                fontSize: "20px",
+                fontFamily: "'Pacifico', sans-serif",
+                color: "rgb(230,230,255)",
+                backgroundColor: "rgb(32, 22, 11)"
+              }}
+              href="https://nationalsecuritycasino.com"
+            >
+              nationalsecuritycasino.com
+            </a>
+          </div>
+          <br />
           the trumpsters are advertising against fractional reserves in public
           and for communism in private
           <br />
