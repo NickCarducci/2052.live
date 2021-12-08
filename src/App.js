@@ -168,6 +168,12 @@ export default class App extends React.Component {
             </a>
           </div>
           <br />
+          Wealth in assets is not taxable as is income or wealth in profits
+          beyond tools (third party beneficiary donee claimable invoices,
+          expiring claims+false bid pools, implausible landlord use, kept down
+          payments repo-cycle)
+          <br />
+          <br />
           the trumpsters are advertising against fractional reserves in public
           and for communism in private
           <br />
@@ -1193,4 +1199,3 @@ export default class App extends React.Component {
       </div>
     );
   }
-}
