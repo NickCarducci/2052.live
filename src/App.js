@@ -192,6 +192,15 @@ export default class App extends React.Component {
             scrollTop={this.state.scrollTop}
           />
           <h2>the tweet</h2>
+          lightte.ch for the beneficiary of universe
+          <br />
+          <h2>
+            save the supply chain: don't be racist&nbsp;
+            <span style={{ fontSize: "14px" }}>teapharmacy.party</span>
+          </h2>
+          can't be pro-article4,&nbsp;
+          <a href="https://humanharvest.info">provaxx</a>&nbsp;and antimandate
+          <br />
           Top 3 issues, according to Charlie Kirk:
           <br />
           “Republicans need church and bile investigation of how virus ever
