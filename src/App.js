@@ -208,6 +208,38 @@ export default class App extends React.Component {
               njta 40% debt service
             </span>
             <br />
+            The only people who should want someone else to be employed, depends
+            on if that someone is... ratio per hour, price deflation. Busy-work
+            is all we have, by lender work deficit -10x since 1970 (doubles
+            every 5 years)
+            <br />
+            <br />
+            GDP/down 11/1 velocity of m2 minus gdp divided by m2 minuus
+            currencyComponentOfM1 time currencyComponentOfM1 is not a job
+            <br />
+            <br />
+            Rescued prices and hours&nbsp;
+            <span role="img" aria-label="side-splitting-laughter">
+              🤣
+            </span>{" "}
+            you have the measure of the economy upside down
+            <br />
+            <br />
+            &bull;&nbsp;cap ren 5 units or 30 days, not price
+            <br />
+            &bull;&nbsp;amortize reversal of repo-cycle kept-down-payments by
+            cash:debt*income thru history
+            <br />
+            &bull;&nbsp;ween free rider immutable sewage police lawsuits off
+            bonds/net-loss-conflict-of-interest-incarceration with truncated
+            sales tax
+            <br />
+            &bull;&nbsp;ban expiring claims false bid pools &
+            invoices/compound-return for third party beneficiary donee claimable
+            grounds, replace with consurrentable bank depositaries and max
+            profit royalty. p2p.
+            <br />
+            <br />
             <h2>
               Menendez forgives student debt; bails out lenders at their price
               fix uncollateralized loans.
@@ -215,7 +247,8 @@ export default class App extends React.Component {
             Just because you can imagine a price doesn’t mean it is real. That
             obligation is laundered from your customers and employers, third
             party beneficiary donee claimable, impossibly 1/11 down to gdp or
-            v2-gdp/m2-CurrencyComponentOfM1 * CurrencyComponentOfM1 to gdp.
+            v2-gdp/m2-CurrencyComponentOfM1 * CurrencyComponentOfM1 ($6k/yr/p)
+            to gdp ($66k/yr/p).
             <br />
             <br />
             You are really bailing out the teacher, debt-inelastic bid-to-ask
