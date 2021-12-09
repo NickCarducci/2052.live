@@ -205,17 +205,53 @@ export default class App extends React.Component {
               </span>
               &nbsp;- sewage police lawsuits, 86' incarceration net loss bond
               profit & expert confict of interest saveface, not nationalized
-              njta 40% debt service
+              njta 40% debt service, 50% free rider mutable tax and 50% debt
+              spend home monopsony by loitering borrowers, counted by courts but
+              not gini nor inflation.
             </span>
             <br />
+            <Cable
+              style={{ height: "440px" }}
+              onError={handleScollImgError}
+              src={
+                this.state.iosNoPhoto
+                  ? ""
+                  : "https://drive.google.com/file/d/1pbZ-TXTALCdogM2MyW7yV5-2kLqd6n2S/preview"
+              }
+              float="left"
+              title="Phil Murphy covid update (Facebook live) - 'We need more choices, now only wall st pharma cop v wall st pharma cop'"
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + 7]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
+            <Cable
+              style={{ height: "440px" }}
+              onError={handleScollImgError}
+              src={
+                this.state.iosNoPhoto
+                  ? ""
+                  : "https://drive.google.com/file/d/1kO7ZIPOY_fPE35DgEc6cWHWcCkK0tsCk/preview"
+              }
+              float="right"
+              title="Phil Murphy covid update (Facebook live) - Cop gets visibly angry. 'Don't get angry.'"
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + 6]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
             The only people who should want someone else to be employed, depends
             on if that someone is... ratio per hour, price deflation. Busy-work
             is all we have, by lender work deficit -10x since 1970 (doubles
             every 5 years)
             <br />
             <br />
-            GDP/down 11/1 velocity of m2 minus gdp divided by m2 minuus
-            currencyComponentOfM1 time currencyComponentOfM1 is not a job
+            GDP/down 11/1 velocity of m2 minus gdp divided by m2 minus
+            currencyComponentOfM1 times currencyComponentOfM1 is not a job
+            <br />
+            <br />
+            Have you even read Marx? Reappropriating labor equity and
+            nationalizing bridge tolls like bipartisans is not our thing.
             <br />
             <br />
             Rescued prices and hours&nbsp;
