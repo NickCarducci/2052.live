@@ -166,6 +166,11 @@ export default class App extends React.Component {
             >
               nationalsecuritycasino.com
             </a>
+            <h2>
+              Forgiven means making lenders whole up to their estimates
+              <br />I think we don’t need to bailout nor cancel, but reverse
+            </h2>
+            <br />
             1-level-board, cash advance short&nbsp;
             <a href="https://pipe.com/blog/pipe-vs-loan#:~:text=You%E2%80%99ll%20pay%20back%20what%20you%20pulled%20forward,%20based%20on%20timing%20of%20your%20recurring%20revenue%20streams">
               debt
