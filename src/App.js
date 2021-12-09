@@ -184,6 +184,13 @@ export default class App extends React.Component {
           the trumpsters are advertising against fractional reserves in public
           and for communism in private
           <br />
+          <h2>
+            “He wants the party that you’ll give him. Not the one for you.”
+            Levin on McConnell shadenfraude, manufacturing consent
+          </h2>
+          wall st Pharma cop vs wall st pharma cop (expiring claim false bid
+          pools repo cycle kept down payments implausible landlord use third
+          party beneficiary donee claimable)
           <Cable
             style={{
               width: "100%",
