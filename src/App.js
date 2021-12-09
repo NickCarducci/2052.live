@@ -167,19 +167,20 @@ export default class App extends React.Component {
               nationalsecuritycasino.com
             </a>
             <h2>
-              expiring claims, invoices, repo-cycle kept-down-payments
-              credit-cycle, implausible landlord use, market price is not made
-              by accrual, public nor private. tranquil society isn't
-              ooutstanding for public and private parts of supply chain, being
-              free rider immutable
+              expiring claims, invoices third party beneficiary donee claimable
+              without multiple of 11/12 various industry hung-jury nor
+              reasonable doubt, repo-cycle kept-down-payments credit-cycle,
+              implausible landlord use, market price is not made by accrual,
+              public nor private. tranquil society isn't ooutstanding for public
+              and private parts of supply chain, being free rider immutable
             </h2>
             national security 1955 socialism is not free rider immutable. you
-            can reserve amortize it. you cannot pay everyone's loans for them.
-            $88t 9/2020 debt $4t/yr 2010-2020 40-50% debt spending 10-40% debt
-            service 1/4 1/4 1/4 premium pentagon pensions.
+            can reserve amortize it. you cannot, "pay everyone's loans for
+            them." $88t 9/2020 debt $4t/yr 2010-2020 40-50% debt spending 10-40%
+            debt service 1/4 1/4 1/4 premium pentagon pensions.
             <br />
             <br />
-            Overpay for school, you get helped out, what is wrong with that,”
+            "Overpay for school, you get helped out, what is wrong with that,”
             how many bonds do you own, that is a lot more than cash, and 1.1/yr
             gdp without bonds; velocity of m2 minus gdp divided by m2 minus
             currencyComponentOfM1 checking times currencyComponentOfM1
