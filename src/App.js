@@ -177,6 +177,24 @@ export default class App extends React.Component {
               profit & expert confict of interest saveface
             </span>
             <br />
+            <Cable
+              style={{ height: "240px" }}
+              onError={handleScollImgError}
+              src={
+                this.state.iosNoPhoto
+                  ? ""
+                  : "https://drive.google.com/file/d/1wCqw_t3QxTJS7tveBFJ8cxdZF-XTqUr9/preview"
+              }
+              float="right"
+              title="Richard Wolff (Katie Halper) - Free Dozinger event. Socialism-Capitalism as opposed to market-communism is still not free market communism, communism, nor socialism  with demand exclusively labor of perfectly equillibrium of propensity of microeconomic actors, not macroeconomic busy-work, that is econometrics or time-series of price-deflation-per-hour"
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + 5]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
+            “It would get conservatives out of office in UK if they said policy
+            to not force employment numbers to corporate market-communes,”
+            <br />
             <br />
             we work 5x per worker and 2x per person since 1970, 5 years to
             double hours per home value of last trade average, while before 1913
