@@ -174,6 +174,13 @@ export default class App extends React.Component {
           payments repo-cycle)
           <br />
           <br />
+          trump is king debt/blackrock implausible landlord use 20x/person
+          55+/millennial
+          <h2>
+            ErinBurnett: “Why are millions leaving their jobs,” that’s not true,
+            and it might be $300k/yr debt and $70k/year new
+            CurrencyComponentOfM1 (checking)
+          </h2>
           the trumpsters are advertising against fractional reserves in public
           and for communism in private
           <br />
@@ -1199,3 +1206,4 @@ export default class App extends React.Component {
       </div>
     );
   }
+}
