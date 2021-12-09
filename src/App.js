@@ -204,7 +204,8 @@ export default class App extends React.Component {
                 ↙️🐿⚪️🍁🚫👨🏻‍🦳
               </span>
               &nbsp;- sewage police lawsuits, 86' incarceration net loss bond
-              profit & expert confict of interest saveface
+              profit & expert confict of interest saveface, not nationalized
+              njta 40% debt service
             </span>
             <br />
             <Cable
