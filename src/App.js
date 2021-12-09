@@ -440,14 +440,17 @@ export default class App extends React.Component {
           bacteria. Under an electron microscope, we see proteins of virus
           coming out of the cell, never have we seen the whole virus on the move
           <TwitterTweetEmbed
+            style={{ width: "300px" }}
             key="1435265064509050880"
             tweetId="1435265064509050880"
           />
           <TwitterTweetEmbed
+            style={{ width: "300px" }}
             key="1433802945225707526"
             tweetId="1433802945225707526"
           />
           <TwitterTweetEmbed
+            style={{ width: "300px" }}
             key="1433820799908163585"
             tweetId="1433820799908163585"
           />
@@ -459,6 +462,7 @@ export default class App extends React.Component {
           <br />
           <br />
           <TwitterTweetEmbed
+            style={{ width: "300px" }}
             key="1433877605606952965"
             tweetId="1433877605606952965"
           />
@@ -652,6 +656,7 @@ export default class App extends React.Component {
             </div>
           </div>
           <TwitterTweetEmbed
+            style={{ width: "300px", float: "right" }}
             key="1428797720546906113"
             tweetId="1428797720546906113"
           />
@@ -697,6 +702,7 @@ export default class App extends React.Component {
           earning money; also, abjectly laundering to bond index funds, the only
           way to make a deal for "welfare" gentrification for existing biz
           <TwitterTweetEmbed
+            style={{ width: "300px", float: "right" }}
             key="1428796702832594952"
             tweetId="1428796702832594952"
           />
@@ -781,6 +787,7 @@ export default class App extends React.Component {
           #FreeRiderMutables,&nbsp;
           <a href="https://nationalsecuritycasino.com">Article 4</a>
           <TwitterTweetEmbed
+            style={{ width: "300px", float: "right" }}
             key="1428487028036014080"
             tweetId="1428487028036014080"
           />
@@ -814,6 +821,7 @@ export default class App extends React.Component {
             decent after-market marketplace that isn’t futher run on credit
             counterfeit @IBM
             <TwitterTweetEmbed
+              style={{ width: "300px", float: "right" }}
               key="1428436617790955525"
               tweetId="1428436617790955525"
             />
