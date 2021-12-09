@@ -185,6 +185,12 @@ export default class App extends React.Component {
             <br />
             the labor market is tight because we work 2x per person and 5x per
             worker since 1970 (doubles every 5 years)
+            <br />
+            <br />
+            <h2>die ian of zip recruiter, you cannot take my copy</h2>I don't
+            want to minimize childcare in the pandemic, as the women dropped
+            more than men. yeah let's watch eachothers' kids and double your
+            income. die
           </h2>
           2.4m quit 4.4m 11m open jobs doesn’t mean people are quitting overall.
           That is normal churn.
