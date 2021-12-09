@@ -167,6 +167,36 @@ export default class App extends React.Component {
               nationalsecuritycasino.com
             </a>
             <span style={{ fontSize: "20px" }}>
+              <a
+                href="https://froth.app"
+                style={{
+                  shapeOutside: "rect()",
+                  float: "right",
+                  width: "max-content",
+                  padding: "0px 10px",
+                  fontSize: "20px",
+                  fontFamily: "'Pacifico', sans-serif",
+                  color: "rgb(230,230,255)",
+                  backgroundColor: "rgb(32, 22, 11)"
+                }}
+              >
+                froth
+              </a>
+              <a
+                href="https://saverparty.xyz"
+                style={{
+                  shapeOutside: "rect()",
+                  float: "right",
+                  width: "max-content",
+                  padding: "0px 10px",
+                  fontSize: "20px",
+                  fontFamily: "'Pacifico', sans-serif",
+                  color: "rgb(230,230,255)",
+                  backgroundColor: "rgb(32, 22, 11)"
+                }}
+              >
+                saver
+              </a>
               <span
                 role="img"
                 aria-label="bottom-left squirrel white-circle maple-leaf cancel old-euro-man"
@@ -194,6 +224,14 @@ export default class App extends React.Component {
             />
             “It would get conservatives out of office in UK if they said policy
             to not force employment numbers to corporate market-communes,”
+            <br />
+            <br />
+            inflation is just corporations raising prices for profit, not a
+            cost, but estimated labor and materials court backed and thrown out
+            <br />
+            "Money buys[ actors and media and two parites problem solving by
+            bailout instead of amortization of purchases that would have been
+            without debt price inelasticity of bid-to-ask],"
             <br />
             <br />
             we work 5x per worker and 2x per person since 1970, 5 years to
