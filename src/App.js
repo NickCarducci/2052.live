@@ -166,6 +166,13 @@ export default class App extends React.Component {
             >
               nationalsecuritycasino.com
             </a>
+            corporate profits isn't a reason to free rider mutable tax or
+            "judgement" of state victimization, as such is merely
+            price-inflation, determined by at least a plural/simple majority of
+            eligible voters representing, or multiple of 12 various industry
+            jury free rider immutable&nbsp;
+            <a href="https://vau.money">truncatred sales tax</a>
+            &nbsp;designation
             <h2>
               expiring claims, invoices third party beneficiary donee claimable
               without multiple of 11/12 various industry hung-jury nor
