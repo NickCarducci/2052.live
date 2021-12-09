@@ -44,7 +44,7 @@ export default class TwitterTweetEmbed extends Component {
         .then((element) => {
           this.setState({
             isLoading: false,
-            style
+            style: { ...this.props.style, height: "min-content" }
           });
           if (onLoad) {
             onLoad(element);
