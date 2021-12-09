@@ -197,6 +197,43 @@ export default class App extends React.Component {
               >
                 saver
               </a>
+              Our moms sort of invested in our copy-treading future, otherwise
+              you work against $300k/yr/p and implausible landlord use work
+              deficit of that and expiring claims false bid pools. Now it
+              depends on how long you can live at home without being sent to
+              Mental Institution or trespass. Now they payee to my mom’s
+              collateralized debts saying I can’t handle it.
+              <br />
+              <a
+                href="https://3under2.us"
+                style={{
+                  shapeOutside: "rect()",
+                  float: "right",
+                  width: "max-content",
+                  padding: "0px 10px",
+                  fontSize: "20px",
+                  fontFamily: "'Pacifico', sans-serif",
+                  color: "rgb(230,230,255)",
+                  backgroundColor: "rgb(32, 22, 11)"
+                }}
+              >
+                3 under 2
+              </a>
+              <a
+                href="https://truncatedsalestax.com"
+                style={{
+                  shapeOutside: "rect()",
+                  float: "right",
+                  width: "max-content",
+                  padding: "0px 10px",
+                  fontSize: "20px",
+                  fontFamily: "'Pacifico', sans-serif",
+                  color: "rgb(230,230,255)",
+                  backgroundColor: "rgb(32, 22, 11)"
+                }}
+              >
+                truncated sales tax
+              </a>
               <h2>uncollateralized bailout</h2>
               tread on copy, we work more than old people did for their
               lender/landlord/insurer work deficit, against $300k/year/person.
