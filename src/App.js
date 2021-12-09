@@ -198,6 +198,22 @@ export default class App extends React.Component {
           Stop freaking people out for ratings lady, excess needs to be fixed by
           cohort size, not age standardized alone.
           <br />
+          <br />I studied market history and propoganda, we can amortize
+          reversal of repo cycle kept down payments third party beneficiary
+          donee claimable like expiring claims false bid pools or options on
+          estimates, by cash:debt*income thru history. The federal reserve is
+          lying about v1m1===v2m2==gdp. “It isn’t fair, it isn’t matched.”
+          Velocity of m2 minus gdp divided by m2 minus CurrencyComponentOfM1
+          times CurrencyComponentOfM1 is $6k/yr/person and gdp is $66k/yr/person
+          <br />
+          $300k/yr new debt, $70k/yr new CurrencyComponentOfM1
+          <br />
+          Income doesn’t account for gini homes nor bonds for purpose to be
+          serfdom. Force majeure third party beneficiary donee claimable. Give
+          us money would be a well paid actor for the bankers. Reverse, don’t
+          cancel. Social workers want bonds to be paid off too, because people
+          think hours are a public utility without operating costs…
+          <br />
           <br />
           the trumpsters are advertising against fractional reserves in public
           and for communism in private
