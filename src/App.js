@@ -197,12 +197,32 @@ export default class App extends React.Component {
               >
                 saver
               </a>
+              <a href="https://humanharvest.info/polio">polio</a>&nbsp;mandate
+              precedence doesn't make countervailing law moot, prevalence
+              doesn't cause&nbsp;
+              <a href="https://youtu.be/Weqb9KrQ-TU?t=21">exclusively</a>
+              &nbsp;make, Dr. Reiner. case of prevalence not transmission
+              indicate, but byproduct and&nbsp;
+              <a href="https://www.cmu.edu/common-cold-project/">warning</a>
+              &nbsp;mechanism as well.
+              <br />
+              <br />
               Our moms sort of invested in our copy-treading future, otherwise
-              you work against $300k/yr/p and implausible landlord use work
-              deficit of that and expiring claims false bid pools. Now it
-              depends on how long you can live at home without being sent to
-              Mental Institution or trespass. Now they payee to my mom’s
-              collateralized debts saying I can’t handle it.
+              you work against&nbsp;
+              <a href="https://fred.stlouisfed.org/graph/?g=JGjV">$300k/yr/p</a>
+              &nbsp;and implausible landlord use work deficit of that and&nbsp;
+              <a href="https://law.justia.com/cases/california/supreme-court/3d/11/394.html">
+                expiring claims false bid{" "}
+              </a>
+              . Now it depends on how long you can live at home without being
+              sent to&nbsp;
+              <a href="https://truncatedsalestax.com">Mental Institution</a>
+              &nbsp;or&nbsp;
+              <a href="https://www.goldmansachs.com/insights/archive/millennials/">
+                trespass
+              </a>
+              . Now they payee to my mom’s collateralized debts saying I can’t
+              handle it.
               <br />
               <a
                 href="https://3under2.us"
