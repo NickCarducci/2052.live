@@ -215,14 +215,24 @@ export default class App extends React.Component {
               <br />
               <br />
               Our moms sort of invested in our copy-treading future, otherwise
-              you work against&nbsp;
-              <a href="https://fred.stlouisfed.org/graph/?g=JGjV">$300k/yr/p</a>
-              &nbsp;and implausible landlord use work deficit of that and&nbsp;
+              you&nbsp;&bull;&nbsp;work against $1.1m/yr($3k/day)/p,&nbsp;
+              <a href="https://fred.stlouisfed.org/graph/?g=JHaE">
+                total $200k/p
+              </a>
+              ,&nbsp;&bull;&nbsp;lenders work deficit in m2 for&nbsp;
+              <a href="https://fred.stlouisfed.org/graph/?g=JHaU">
+                $300k/yr($821/day)/p
+              </a>
+              , total $70k/p and&nbsp;&bull;&nbsp;you work with
+              $70k/yr($120/day)/p, total $6k/p; implausible landlord use work
+              deficit of that; and&nbsp;
               <a href="https://law.justia.com/cases/california/supreme-court/3d/11/394.html">
                 expiring claims false bid{" "}
               </a>
-              . Now it depends on how long you can live at home without being
-              sent to&nbsp;
+              .<br />
+              <br />
+              Now it depends on how long you can live at home without being sent
+              to&nbsp;
               <a href="https://truncatedsalestax.com">Mental Institution</a>
               &nbsp;or&nbsp;
               <a href="https://www.goldmansachs.com/insights/archive/millennials/">
@@ -331,7 +341,7 @@ export default class App extends React.Component {
             you have the measure of the economy upside down
             <br />
             <br />
-            &bull;&nbsp;cap ren 5 units or 30 days, not price
+            &bull;&nbsp;cap rent 5 units or 30 days, not price
             <br />
             &bull;&nbsp;amortize reversal of repo-cycle kept-down-payments by
             cash:debt*income thru history
