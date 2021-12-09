@@ -173,42 +173,57 @@ export default class App extends React.Component {
           expiring claims+false bid pools, implausible landlord use, kept down
           payments repo-cycle)
           <br />
-          <br />
-          trump is king debt/blackrock implausible landlord use 20x/person
-          55+/millennial
           <h2>
+            <span style={{ fontSize: "12px" }}>
+              trump is king debt/blackrock implausible landlord use 20x/person
+              55+/millennial
+            </span>
+            <br />
             ErinBurnett: “Why are millions leaving their jobs,” that’s not true,
             and it might be $300k/yr debt and $70k/year new
             CurrencyComponentOfM1 (checking). Why wouldn't you work for your own
             copy with limited contracts of hours and IP-equitable as per design
             or discovery, never utility
             <br />
-            the labor market is tight because we work 2x per person and 5x per
-            worker since 1970 (doubles every 5 years)
-            <br />
-            <br />
-            <span>
-              “Get a deal to benefit our farmers,”
-              <br />
-              “You know what you are getting into. If you die, it just goes
-              away,” nj 101.5 trevalese, where is it written that life has to be
-              fair?" whio in this country, do you really believe we live in a
-              fair country?" depends on the situation and who you ask. more than
-              unfair. alright, so we have moved poverty/equality. unfair
-              society, and country is part of society. any flex is federal
-              loans, because those are federal write downs, but it is outside
-              article 4 scope, which reversing IS a matter a national security
-              and domestic violence. losing govtech standing to Nicholas Matthew
-              Carducci
+            <span style={{ fontSize: "12px" }}>
+              the labor market is tight because we work 2x per person and 5x per
+              worker since 1970 (doubles every 5 years)
             </span>
-            <br />
-            <h2>die ian of zip recruiter, you cannot take my copy</h2>I don't
-            want to minimize childcare in the pandemic, as the women dropped
-            more than men. yeah let's watch eachothers' kids and double your
-            income. die
           </h2>
-          2.4m quit 4.4m 11m open jobs doesn’t mean people are quitting overall.
-          That is normal churn.
+          <br />
+          <span>
+            <Cable
+              onError={handleScollImgError}
+              src={
+                this.state.iosNoPhoto
+                  ? ""
+                  : "https://drive.google.com/file/d/1WqjDjNvL7nM82vbt8ZYKDn5QIovXvhbz/preview"
+              }
+              float="left"
+              title=""
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + 1]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
+            “Get a deal to benefit our farmers,”
+            <br />
+            “You know what you are getting into. If you die, it just goes away,”
+            nj 101.5 trevalese, where is it written that life has to be fair?"
+            whio in this country, do you really believe we live in a fair
+            country?" depends on the situation and who you ask. more than
+            unfair. alright, so we have moved poverty/equality. unfair society,
+            and country is part of society. any flex is federal loans, because
+            those are federal write downs, but it is outside article 4 scope,
+            which reversing IS a matter a national security and domestic
+            violence. losing govtech standing to Nicholas Matthew Carducci
+          </span>
+          <br />
+          <h2>die ian of zip recruiter, you cannot tread my copy</h2>I don't
+          want to minimize childcare in the pandemic, as the women dropped more
+          than men. yeah let's watch eachothers' kids and double your income.
+          86' 2.4m quit 4.4m 11m open jobs doesn’t mean people are quitting
+          overall. That is normal churn.
           <br />
           Stop freaking people out for ratings lady, excess needs to be fixed by
           cohort size, not age standardized alone.
