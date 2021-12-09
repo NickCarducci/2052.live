@@ -166,12 +166,25 @@ export default class App extends React.Component {
             >
               nationalsecuritycasino.com
             </a>
-            <span
-              role="img"
-              aria-label="bottom-left squirrel white-circle maple-leaf cancel old-euro-man"
-            >
-              ↙️🐿⚪️🍁🚫👨🏻‍🦳
+            <span style={{ fontSize: "20px" }}>
+              <span
+                role="img"
+                aria-label="bottom-left squirrel white-circle maple-leaf cancel old-euro-man"
+              >
+                ↙️🐿⚪️🍁🚫👨🏻‍🦳
+              </span>
+              &nbsp;- sewage police lawsuits, 86' incarceration net loss bond
+              profit & expert confict of interest saveface
             </span>
+            <br />
+            <br />
+            we work 5x per worker and 2x per person since 1970, 5 years to
+            double hours per home value of last trade average, while before 1913
+            gdp/p was nearly constant, save repo cycle kept down payments third
+            party beneficiary donee claimable
+            <br />
+            work for your own copy; tready on your copy. free britney
+            comparative law
             <br />
             <Cable
               style={{ height: "440px" }}
@@ -193,14 +206,14 @@ export default class App extends React.Component {
             price-inflation, determined by at least a plural/simple majority of
             eligible voters representing, or multiple of 12 various industry
             jury free rider immutable&nbsp;
-            <a href="https://vau.money">truncatred sales tax</a>
+            <a href="https://vau.money">truncated sales tax</a>
             &nbsp;designation
             <h2>
               expiring claims, invoices third party beneficiary donee claimable
               without multiple of 11/12 various industry hung-jury nor
               reasonable doubt, repo-cycle kept-down-payments credit-cycle,
               implausible landlord use, market price is not made by accrual,
-              public nor private. tranquil society isn't ooutstanding for public
+              public nor private. tranquil society isn't outstanding for public
               and private parts of supply chain, being free rider immutable
             </h2>
             national security 1955 socialism is not free rider immutable. you
@@ -521,17 +534,17 @@ export default class App extends React.Component {
           bacteria. Under an electron microscope, we see proteins of virus
           coming out of the cell, never have we seen the whole virus on the move
           <TwitterTweetEmbed
-            style={{ width: "300px" }}
+            style={{ width: "300px", float: "right" }}
             key="1435265064509050880"
             tweetId="1435265064509050880"
           />
           <TwitterTweetEmbed
-            style={{ width: "300px" }}
+            style={{ width: "300px", float: "right" }}
             key="1433802945225707526"
             tweetId="1433802945225707526"
           />
           <TwitterTweetEmbed
-            style={{ width: "300px" }}
+            style={{ width: "300px", float: "right" }}
             key="1433820799908163585"
             tweetId="1433820799908163585"
           />
@@ -543,11 +556,10 @@ export default class App extends React.Component {
           <br />
           <br />
           <TwitterTweetEmbed
-            style={{ width: "300px" }}
+            style={{ width: "300px", float: "right" }}
             key="1433877605606952965"
             tweetId="1433877605606952965"
           />
-          <br />
           Is all&nbsp;<a href="https://lightte.ch">government gentrification</a>
           , existing biz (abject) m2 laundering (intent)?
           <br />
