@@ -208,6 +208,25 @@ export default class App extends React.Component {
               njta 40% debt service
             </span>
             <br />
+            <h2>
+              Menendez forgives student debt; bails out lenders at their price
+              fix uncollateralized loans.
+            </h2>
+            Just because you can imagine a price doesn’t mean it is real. That
+            obligation is laundered from your customers and employers, third
+            party beneficiary donee claimable, impossibly 1/11 down to gdp or
+            v2-gdp/m2-CurrencyComponentOfM1 * CurrencyComponentOfM1 to gdp.
+            <br />
+            <br />
+            You are really baking out the teacher debt inelastic income of the
+            university by bailout, and cancelling is forbidden by past demand.
+            <br />
+            <br />
+            Third party beneficiary donee claimable is laundered in compound
+            interest for schedule to price as opposed to awaiting consumers for
+            schedule to price.
+            <br />
+            <br />
             <Cable
               style={{ height: "240px" }}
               onError={handleScollImgError}
@@ -228,7 +247,7 @@ export default class App extends React.Component {
             <br />
             <br />
             inflation is just corporations raising prices for profit, not a
-            cost, but estimated labor and materials court backed and thrown out
+            cost, but estimated labor and materials court backed and thrown out.
             <br />
             "Money buys[ actors and media and two parites problem solving by
             bailout instead of amortization of purchases that would have been
@@ -238,10 +257,10 @@ export default class App extends React.Component {
             we work 5x per worker and 2x per person since 1970, 5 years to
             double hours per home value of last trade average, while before 1913
             gdp/p was nearly constant, save repo cycle kept down payments third
-            party beneficiary donee claimable
+            party beneficiary donee claimable.
             <br />
             work for your own copy; tready on your copy. free britney
-            comparative law
+            comparative law.
             <br />
             <Cable
               style={{ height: "440px" }}
