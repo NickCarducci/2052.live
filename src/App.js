@@ -197,6 +197,7 @@ export default class App extends React.Component {
               >
                 saver
               </a>
+              <h2>uncollateralized bailout</h2>
               tread on copy, we work more than old people did for their
               lender/landlord/insurer work deficit, against $300k/year/person.
               Why would you not bootstrap and only take income with debit (must
