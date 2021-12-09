@@ -197,6 +197,13 @@ export default class App extends React.Component {
               >
                 saver
               </a>
+              <a href="https://www.investopedia.com/ask/answers/031815/why-are-there-no-profits-perfectly-competitive-market.asp">
+                profit
+              </a>
+              &nbsp;beyond tools outlaid, so that demand is exclusively labor,
+              is&nbsp;
+              <a href="https://vaults.biz">collective flaccid loss</a>
+              <br />
               <a href="https://humanharvest.info/polio">polio</a>&nbsp;mandate
               precedence doesn't make countervailing law moot, prevalence
               doesn't cause&nbsp;
