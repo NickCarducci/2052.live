@@ -197,6 +197,11 @@ export default class App extends React.Component {
               >
                 saver
               </a>
+              tread on copy, we work more than old people did for their
+              lender/landlord/insurer work deficit, against $300k/year/person.
+              Why would you not bootstrap and only take income with debit (must
+              make your own paytech)?
+              <br />
               <span
                 role="img"
                 aria-label="bottom-left squirrel white-circle maple-leaf cancel old-euro-man"
