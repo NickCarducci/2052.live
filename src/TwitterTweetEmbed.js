@@ -31,7 +31,7 @@ export default class TwitterTweetEmbed extends Component {
   }
 
   renderWidget() {
-    const { onLoad } = this.props;
+    const { onLoad, style } = this.props;
     if (!window.twttr) {
       console.error(
         "Failure to load window.twttr in TwitterTweetEmbed, aborting load."
@@ -43,7 +43,8 @@ export default class TwitterTweetEmbed extends Component {
         .createTweet(this.props.tweetId, this.tw.current, this.props.options)
         .then((element) => {
           this.setState({
-            isLoading: false
+            isLoading: false,
+            style
           });
           if (onLoad) {
             onLoad(element);
@@ -66,13 +67,7 @@ export default class TwitterTweetEmbed extends Component {
   }
 
   render() {
-    const { isLoading } = this.state;
-    const { placeholder } = this.props;
-    return (
-      <React.Fragment>
-        {isLoading && placeholder}
-        <div ref={this.tw} />
-      </React.Fragment>
-    );
+    const { style } = this.state;
+    return <div ref={this.tw} style={style} />;
   }
 }
