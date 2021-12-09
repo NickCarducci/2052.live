@@ -166,6 +166,12 @@ export default class App extends React.Component {
             >
               nationalsecuritycasino.com
             </a>
+            1-level-board, cash advance short&nbsp;
+            <a href="https://pipe.com/blog/pipe-vs-loan#:~:text=You%E2%80%99ll%20pay%20back%20what%20you%20pulled%20forward,%20based%20on%20timing%20of%20your%20recurring%20revenue%20streams">
+              debt
+            </a>
+            ; tubby, gdp/down 11/1 isn't a job, make paytech without credit by
+            debit card, $10/mo nor same day LINK (not transfer) or you are scum
           </div>
           <br />
           Wealth in assets is not taxable as is income or wealth in profits
