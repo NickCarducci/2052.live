@@ -166,6 +166,9 @@ export default class App extends React.Component {
             >
               nationalsecuritycasino.com
             </a>
+            <a href="https://www.theatlantic.com/politics/archive/2011/10/poll-most-americans-support-occupy-wall-street/246963/">
+              non-voters keep winning
+            </a>
             <h2>
               Forgiven means making lenders whole up to their estimates
               <br />I think we don’t need to bailout nor cancel, but reverse
@@ -178,6 +181,31 @@ export default class App extends React.Component {
             ; tubby, gdp/down 11/1 isn't a job, make paytech without credit by
             debit card, $10/mo nor same day LINK (not transfer) or you are scum
           </div>
+          <br />
+          <Cable
+            onError={handleScollImgError}
+            src={
+              this.state.iosNoPhoto
+                ? ""
+                : "https://drive.google.com/file/d/1o47o5tui_PMNUYpVPofS1P-aT4vrKUvF/preview"
+            }
+            float="right"
+            title="Nina Turner (Katie Halper) - Free Dozinger event. “Because of a promise, I can’t release relevant warranted information purges?” Why do you need to entire hard drive?"
+            scrolling={this.state.scrolling}
+            fwd={this["scrollImg" + 3]}
+            scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+            scrollTop={this.state.scrollTop}
+          />
+          gentrification nationationization of bridge tolls nor broadband
+          network fees nor expiring claim false bid pool is socialism
+          <br />
+          <br />
+          “Because of a promise, I can’t release relevant warranted information
+          purges?” Why do you need to entire hard drive?
+          <br />
+          “Paying the price for freedom, it takes those in power to wait for
+          justice to come,”
+          <br />
           <br />
           Wealth in assets is not taxable as is income or wealth in profits
           beyond tools (third party beneficiary donee claimable invoices,
@@ -213,7 +241,7 @@ export default class App extends React.Component {
               float="left"
               title=""
               scrolling={this.state.scrolling}
-              fwd={this["scrollImg" + 1]}
+              fwd={this["scrollImg" + 2]}
               scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
               scrollTop={this.state.scrollTop}
             />
