@@ -218,13 +218,18 @@ export default class App extends React.Component {
             v2-gdp/m2-CurrencyComponentOfM1 * CurrencyComponentOfM1 to gdp.
             <br />
             <br />
-            You are really baking out the teacher debt inelastic income of the
-            university by bailout, and cancelling is forbidden by past demand.
+            You are really bailing out the teacher, debt-inelastic bid-to-ask
+            income of the university by bailout, and cancelling is forbidden by
+            past demand.
             <br />
             <br />
             Third party beneficiary donee claimable is laundered in compound
-            interest for schedule to price as opposed to awaiting consumers for
-            schedule to price.
+            interest for schedule, to price, as opposed to awaiting consumers
+            for schedule, to&nbsp;
+            <a href="https://pipe.com/blog/pipe-vs-loan#:~:text=You%E2%80%99ll%20pay%20back%20what%20you%20pulled%20forward,%20based%20on%20timing%20of%20your%20recurring%20revenue%20streams">
+              price
+            </a>
+            .
             <br />
             <br />
             <Cable
