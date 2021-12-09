@@ -179,8 +179,20 @@ export default class App extends React.Component {
           <h2>
             ErinBurnett: “Why are millions leaving their jobs,” that’s not true,
             and it might be $300k/yr debt and $70k/year new
-            CurrencyComponentOfM1 (checking)
+            CurrencyComponentOfM1 (checking). Why wouldn't you work for your own
+            copy with limited contracts of hours and IP-equitable as per design
+            or discovery, never utility
+            <br />
+            the labor market is tight because we work 2x per person and 5x per
+            worker since 1970 (doubles every 5 years)
           </h2>
+          2.4m quit 4.4m 11m open jobs doesn’t mean people are quitting overall.
+          That is normal churn.
+          <br />
+          Stop freaking people out for ratings lady, excess needs to be fixed by
+          cohort size, not age standardized alone.
+          <br />
+          <br />
           the trumpsters are advertising against fractional reserves in public
           and for communism in private
           <br />
