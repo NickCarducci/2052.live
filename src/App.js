@@ -217,6 +217,14 @@ export default class App extends React.Component {
             those are federal write downs, but it is outside article 4 scope,
             which reversing IS a matter a national security and domestic
             violence. losing govtech standing to Nicholas Matthew Carducci
+            <br />
+            <br />
+            “banks, [fractional reserve ]and guidance, parents, person borrowing
+            [loitering]the money, why don't people research? Then people borrow
+            money, then do something completely different, this was just not for
+            me," about repo-cycle estimate labor and materials, let alone
+            promised compounding kept-down-payment third party beneficiary donee
+            claimables
           </span>
           <br />
           <h2>die ian of zip recruiter, you cannot tread my copy</h2>I don't
