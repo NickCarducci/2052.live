@@ -166,6 +166,28 @@ export default class App extends React.Component {
             >
               nationalsecuritycasino.com
             </a>
+            <span
+              role="img"
+              aria-label="bottom-left squirrel white-circle maple-leaf cancel old-euro-man"
+            >
+              ↙️🐿⚪️🍁🚫👨🏻‍🦳
+            </span>
+            <br />
+            <Cable
+              style={{ height: "440px" }}
+              onError={handleScollImgError}
+              src={
+                this.state.iosNoPhoto
+                  ? ""
+                  : "https://drive.google.com/file/d/19h3gd-sRaWSusLM8Vbr6fkKujq6sKL-z/preview"
+              }
+              float="left"
+              title="Natalie water land existence survival protector comms (Katie Halper) - Free Dozinger event. collective struggle moves forward. just let him self report upon warrant with 2 week anon and undisclosed-discovery"
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + 4]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
             corporate profits isn't a reason to free rider mutable tax or
             "judgement" of state victimization, as such is merely
             price-inflation, determined by at least a plural/simple majority of
@@ -216,7 +238,7 @@ export default class App extends React.Component {
                 : "https://drive.google.com/file/d/1o47o5tui_PMNUYpVPofS1P-aT4vrKUvF/preview"
             }
             float="right"
-            title="Nina Turner (Katie Halper) - Free Dozinger event. “Because of a promise, I can’t release relevant warranted information purges?” Why do you need to entire hard drive?"
+            title="Nina Turner (Katie Halper) - Free Dozinger event. 'Because of a promise, I can’t release relevant warranted information purges?' Why do you need to entire hard drive?"
             scrolling={this.state.scrolling}
             fwd={this["scrollImg" + 3]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
@@ -265,7 +287,7 @@ export default class App extends React.Component {
                   : "https://drive.google.com/file/d/1WqjDjNvL7nM82vbt8ZYKDn5QIovXvhbz/preview"
               }
               float="left"
-              title=""
+              title="Stinchfield (Newsmax) - Mark Meadows"
               scrolling={this.state.scrolling}
               fwd={this["scrollImg" + 2]}
               scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
