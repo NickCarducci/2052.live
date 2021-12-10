@@ -551,6 +551,17 @@ export default class App extends React.Component {
             jury free rider immutable&nbsp;
             <a href="https://vau.money">truncated sales tax</a>
             &nbsp;designation
+            <br />
+            <br />
+            Dershowitz: “In the 50’s and 60’s we were a systemically racist
+            country,” systemic requires transitive-property (transmissivity?)
+            Potentially like public prowess/“guilt” driving all actions. Lying
+            to cops isn’t a crime if no imminent-danger, just jailtime or fine
+            state victimization.
+            <br />
+            <br />
+            This case (Smollet) does have victims in resource reallocation
+            rather than a wall st pharma cop situation
             <h2>
               expiring claims, invoices third party beneficiary donee claimable
               without multiple of 11/12 various industry hung-jury nor
