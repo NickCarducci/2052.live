@@ -1,5 +1,4 @@
 import React from "react";
-import FraudMoney from "./FraudMoney";
 import Cable from "./Dropwire";
 import LeadingCities from "./LeadingCities";
 import "./styles.css";
@@ -495,9 +494,36 @@ export default class App extends React.Component {
             What about the people? Just the treasury and bond holders, not even
             counted in inflation gini, nor as intermediate-labor nor homes
             outright?
+            <br />
+            <br />
+            <Cable
+              style={{ height: "300px" }}
+              onError={handleScollImgError}
+              src={
+                this.state.noyoutube
+                  ? ""
+                  : "https://drive.google.com/file/d/1wBek-RLholsjwKQN4Z4aQX0ArvBd8LrV/preview"
+              }
+              float="right"
+              title="1937 social security threat gov order free rider mutable monopsony & gentrification"
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + 9]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
+            “...elderly. The disabled, veterans, the hungry, ...negotiation,
+            steady compromise and vision for the American promise. ...wit,
+            dead-pan, barriers to come down - letting the air out of the
+            partisan balloons. ...so strong that if Bob was for something, I was
+            for something, …[like memorials ]for veterans and his Nation.” Pat
+            Roberts mentioning all the front-running busy-work in free rider
+            mutable monopsonies, enslaving citizens. Racketeering opinion of
+            'mental health,' cause biologically lest obvious economic cause as
+            disability, most for 65+ and half continuing claims for such. GET
+            BACK TO WORK GRAMPS
             <h2>
-              Work for your own copy; tready on your copy. free britney
-              comparative law. If viruous, you'd have volunteers.
+              Work for your own copy; tread on your copy. free britney
+              comparative law. If virtuous, you'd have volunteers.
             </h2>
             <Cable
               style={{ height: "440px" }}
@@ -1528,7 +1554,7 @@ export default class App extends React.Component {
               style={{ width: "100%", height: "auto" }}
               alt="2021 compass, matrix [equity-protection (fractional=reserve), rent-seeking (cancel? accrual)]"
               src={
-                this.state.settleDropboxFree
+                this.state.noyoutube
                   ? ""
                   : "https://www.dl.dropboxusercontent.com/s/q9txz5wkr2r9ft7/4vector%20%281%29.png?dl=0"
               }
@@ -1571,7 +1597,25 @@ export default class App extends React.Component {
           please state sample size (n) - 40% military TURNED IT DOWN
           <h1>2052.live: unpaid reporters and judges</h1>
           <div>
-            <FraudMoney iframed={iframed} />
+            <Cable
+              style={{
+                width: "100%",
+                height: "700px"
+              }}
+              onError={handleScollImgError}
+              src={
+                this.state.iosNoPhoto
+                  ? ""
+                  : "https://fred.stlouisfed.org/graph/graph-landing.php?g=D2jW&width=500&height=600"
+              }
+              float="left"
+              title="$70k/yr printed, $300k/yr promised"
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + 9]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
+            {/*<FraudMoney iframed={iframed} />*/}
           </div>
           The top 20% of people by wealth is way diff than the top 20%
           percentile of wealth
