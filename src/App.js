@@ -450,7 +450,7 @@ export default class App extends React.Component {
             to not force employment numbers to corporate market-communes,”
             <br />
             <br />
-            inflation is just corporations raising prices for profit, not a
+            Inflation is just corporations raising prices for profit, not a
             cost, but estimated labor and materials court backed and thrown out.
             <br />
             "Money buys[ actors and media and two parites problem solving by
@@ -458,14 +458,19 @@ export default class App extends React.Component {
             without debt price inelasticity of bid-to-ask],"
             <br />
             <br />
-            we work 5x per worker and 2x per person since 1970, 5 years to
+            We work 5x per worker and 2x per person since 1970, 5 years to
             double hours per home value of last trade average, while before 1913
             gdp/p was nearly constant, save repo cycle kept down payments third
             party beneficiary donee claimable.
             <br />
-            work for your own copy; tready on your copy. free britney
-            comparative law.
             <br />
+            Is state due for damages of injuries from a draft? Only the leaders
+            to not victimize state by charging themselves.
+            <br />
+            <h2>
+              Work for your own copy; tready on your copy. free britney
+              comparative law. If viruous, you'd have volunteers.
+            </h2>
             <Cable
               style={{ height: "440px" }}
               onError={handleScollImgError}
