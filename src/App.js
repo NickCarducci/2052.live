@@ -221,6 +221,27 @@ export default class App extends React.Component {
               11/12 multiple industry various jury
               <br />
               <br />
+              Nationalizing broadband network fees and bridge tolls instead of
+              target margin on the very microeconomic reason for self-regulating
+              free markets is sparsely there: “perfect price and duress/quality
+              equilibrium,” from infinite producers, is not socialism! Childcare
+              is like parent trust building, let the kid take the job: doubling
+              employment by watching eachothers kids shows employment rather
+              than per hour price deflation is not a productivity measure! Just
+              like ppp for existing biz and bbb for contractors of free rider
+              mutable tax 60% and debt spending 40%! This is beyond article 4
+              outlay/receipt scope, tax from outside of the market is pure price
+              inflation, and third party beneficiary donee claimable! That goes
+              for expiring claim false bid pools too, about a quarter of gdp,
+              but amortized it is mostly homes, given outstanding debt loitered
+              and laundered court price fixed third party beneficiary donee
+              claimable!
+              <br />
+              <br />
+              Social programs increases inequality when gini measures bonds as
+              the price fixed “assets,” and their collateral, they are.
+              <br />
+              <br />
               <a href="https://www.investopedia.com/ask/answers/031815/why-are-there-no-profits-perfectly-competitive-market.asp">
                 profit
               </a>
