@@ -472,6 +472,23 @@ export default class App extends React.Component {
             Is state due for damages of injuries from a draft? Only the leaders
             to not victimize state by charging themselves.
             <br />
+            <br />
+            “To fight hunger in America, particularly as it affected children,
+            and around the world, he worked with Patrick Moynihan to save social
+            security; everyone should be able to grow old with basic dignity in
+            tact, and he managed to create a national holiday for MLK. Ill never
+            forget what he said, 'no first class democracy can treat people like
+            second-class-citizens.' Bob didn’t hate government, the people he
+            needed were the most in need, help people like him who came up the
+            hard way, 'give us a chance Joe, just a chance.' He had to rent out
+            his upstairs, he never forgot the people from Washington, Russel,
+            Kansas, bob always did his duty, lived by a code of honor and meant
+            it. Just ask GOP and Dems... Bob Dole is a man of his word. ...He
+            loved his country, but served his whole life. ...Bob was always
+            honest, even to a fault haha. He faught Republicans on Amtrak,
+            whether we were going to defund, and he cast the vote against,
+            saying, ‘this is the best way to get Joe Biden out at night so he
+            can be here in the morning.’”
             <h2>
               Work for your own copy; tready on your copy. free britney
               comparative law. If viruous, you'd have volunteers.
