@@ -197,6 +197,11 @@ export default class App extends React.Component {
               >
                 saver
               </a>
+              Public and private insurance is still expiring claim false bid
+              pools of third party beneficiary donee claimables. Open source
+              licensure, save the animals and target margin!
+              <br />
+              <br />
               “The Republicans don’t want to be the party to default on its
               debts because it is catastrophic, but they don’t want inflation.
               Ok the democrats say we will be the grownups. …I say we do that
