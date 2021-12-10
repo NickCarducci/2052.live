@@ -221,7 +221,7 @@ export default class App extends React.Component {
               </a>
               ,&nbsp;&bull;&nbsp;lenders work deficit in m2 for&nbsp;
               <a href="https://fred.stlouisfed.org/graph/?g=JHaU">
-                $300k/yr($821/day)/p
+                $1.1m/yr($3k/day)/p
               </a>
               , total $70k/p and&nbsp;&bull;&nbsp;you work with
               $70k/yr($120/day)/p, total $6k/p; implausible landlord use work
@@ -273,7 +273,7 @@ export default class App extends React.Component {
               </a>
               <h2>uncollateralized bailout</h2>
               tread on copy, we work more than old people did for their
-              lender/landlord/insurer work deficit, against $300k/year/person.
+              lender/landlord/insurer work deficit, against $1.1m/year/person.
               Why would you not bootstrap and only take income with debit (must
               make your own paytech)?
               <br />
@@ -510,12 +510,31 @@ export default class App extends React.Component {
             </span>
             <br />
             ErinBurnett: “Why are millions leaving their jobs,” that’s not true,
-            and it might be $300k/yr debt and $70k/year new
+            and it might be $1.1m/yr debt and $70k/year new
             CurrencyComponentOfM1 (checking). Why wouldn't you work for your own
             copy with limited contracts of hours and IP-equitable as per design
             or discovery, never utility
             <br />
-            <span style={{ fontSize: "12px" }}>
+            <br />
+            <Cable
+              style={{ height: "300px", width: "260px" }}
+              onError={handleScollImgError}
+              src={
+                this.state.iosNoPhoto
+                  ? ""
+                  : "https://drive.google.com/file/d/1Lu2X8A3Em99gXsALhbH1YScX06bSAl8y/preview"
+              }
+              float="right"
+              title="NJ 101.5 - New Jersey nursing homes are being squeezed by, 'labor shortage'"
+              scrolling={this.state.scrolling}
+              fwd={this["scrollImg" + 8]}
+              scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
+              scrollTop={this.state.scrollTop}
+            />
+            Because there are too many old people (1.2m/yr+ 2015- 75+ and
+            expiring claims false bid pools third party beneficiary donee
+            claimable missapropriating loitering),
+            <span style={{ fontSize: "24px" }}>
               the labor market is tight because we work 2x per person and 5x per
               worker since 1970 (doubles every 5 years)
             </span>
@@ -574,7 +593,7 @@ export default class App extends React.Component {
           Velocity of m2 minus gdp divided by m2 minus CurrencyComponentOfM1
           times CurrencyComponentOfM1 is $6k/yr/person and gdp is $66k/yr/person
           <br />
-          $300k/yr new debt, $70k/yr new CurrencyComponentOfM1
+          $1.1m/yr new debt, $70k/yr new CurrencyComponentOfM1
           <br />
           Income doesn’t account for gini homes nor bonds for purpose to be
           serfdom. Force majeure third party beneficiary donee claimable. Give
@@ -1385,7 +1404,7 @@ export default class App extends React.Component {
           <br />
           Everyday, the @USTreasury and @federalreserve break Sherman Act,
           Amendment 13 and 14 by instead of giving $70k/yr/person @AndrewYang &
-          $300k/yr/person in @SenBooker baby-bonds, they use it to take assets
+          $1.1m/yr/person in @SenBooker baby-bonds, they use it to take assets
           from people... the government is not people it is other governments &
           @chase
           <br />
