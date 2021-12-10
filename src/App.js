@@ -489,6 +489,12 @@ export default class App extends React.Component {
             whether we were going to defund, and he cast the vote against,
             saying, ‘this is the best way to get Joe Biden out at night so he
             can be here in the morning.’”
+            <br />
+            <br />
+            “G-d bless America, G-d bless Bob Dole, and G-d protect our troops.”
+            What about the people? Just the treasury and bond holders, not even
+            counted in inflation gini, nor as intermediate-labor nor homes
+            outright?
             <h2>
               Work for your own copy; tready on your copy. free britney
               comparative law. If viruous, you'd have volunteers.
