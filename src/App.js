@@ -247,6 +247,11 @@ export default class App extends React.Component {
               the price fixed “assets,” and their collateral, they are.
               <br />
               <br />
+              “10% tax credit for existing business for low wage workers.
+              <br />
+              ...The credit helps adjust to minimum wage increases,”
+              <br />
+              <br />
               <a href="https://www.investopedia.com/ask/answers/031815/why-are-there-no-profits-perfectly-competitive-market.asp">
                 profit
               </a>
