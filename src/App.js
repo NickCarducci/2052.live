@@ -197,6 +197,30 @@ export default class App extends React.Component {
               >
                 saver
               </a>
+              “The Republicans don’t want to be the party to default on its
+              debts because it is catastrophic, but they don’t want inflation.
+              Ok the democrats say we will be the grownups. …I say we do that
+              and get voting rights passed.”
+              <br />
+              <br />
+              “This short period of time where there is a real crunch for
+              workers. We need workers opportunity to unionize, against crushing
+              of opportunity to collective bargaining. …Without extension,
+              people are going to be squeezed, not ready to begin making
+              payments for student loan. That is money that goes through the
+              economy and through the stores. President can cancel student loan
+              debt. all you need to do is take out a pen and pencil, and get it
+              done. We are talking about how to make people’s lives better,
+              mommas who need childcare, fight climate change, and get
+              prescription drugs.”
+              <br />
+              <br />
+              "It would help fight dark money, only problem is the filibuster,"
+              (super majority) super simple plural
+              <br />
+              11/12 multiple industry various jury
+              <br />
+              <br />
               <a href="https://www.investopedia.com/ask/answers/031815/why-are-there-no-profits-perfectly-competitive-market.asp">
                 profit
               </a>
