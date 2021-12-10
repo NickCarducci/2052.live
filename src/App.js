@@ -496,6 +496,10 @@ export default class App extends React.Component {
             outright?
             <br />
             <br />
+            <h2>
+              free rider mutable gentrification, tax from outside the market is
+              pure-inflation, entire lives to save, except who is at fault:
+            </h2>
             <Cable
               style={{ height: "300px" }}
               onError={handleScollImgError}
