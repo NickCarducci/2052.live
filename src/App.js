@@ -207,6 +207,11 @@ export default class App extends React.Component {
               and get voting rights passed.”
               <br />
               <br />
+              <TwitterTweetEmbed
+                style={{ float: "left", width: "300px" }}
+                key="1421471623136358405"
+                tweetId="1421471623136358405"
+              />
               “This short period of time where there is a real crunch for
               workers. We need workers opportunity to unionize, against crushing
               of opportunity to collective bargaining. …Without extension,
@@ -275,10 +280,10 @@ export default class App extends React.Component {
               </a>
               ,&nbsp;&bull;&nbsp;lenders work deficit in m2 for&nbsp;
               <a href="https://fred.stlouisfed.org/graph/?g=JHaU">
-                $1.1m/yr($3k/day)/p
+                $12k/yr($32/day)/p
               </a>
               , total $70k/p and&nbsp;&bull;&nbsp;you work with
-              $70k/yr($120/day)/p, total $6k/p; implausible landlord use work
+              $64/yr($.18/day)/p, total $6k/p; implausible landlord use work
               deficit of that; and&nbsp;
               <a href="https://law.justia.com/cases/california/supreme-court/3d/11/394.html">
                 expiring claims false bid{" "}
