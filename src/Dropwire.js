@@ -18,7 +18,13 @@ import ExecutionEnvironment from "exenv";
 class Cable extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { limit: [], cache: null, mountsCount: 0, cacheStyle: "" };
+    this.state = {
+      limit: [],
+      cache: null,
+      mountsCount: 0,
+      cacheStyle: "",
+      framewidth: 200
+    };
     this.page = React.createRef();
     this.fwdtwe = React.createRef();
   }
@@ -31,6 +37,14 @@ class Cable extends React.Component {
     if (this.state.go && this.props.scrolling !== prevProps.scrolling) {
       this.checkIfBetween();
     }
+    if (this.state.loaded !== this.state.lastLoaded) {
+      this.setState(
+        {
+          lastLoaded: this.state.loaded
+        },
+        this.checkIfBetween
+      );
+    }
   };
   componentWillUnmount = () => {
     clearTimeout(this.setset);
@@ -38,7 +52,7 @@ class Cable extends React.Component {
   checkIfBetween = () => {
     const { cache } = this.state;
     const { scrollTopAndHeight, scrollTop, girth, timeout } = this.props;
-    var girt = girth ? girth : 1500;
+    var girt = girth ? girth : 500;
     var timeou = timeout ? timeout : 1500;
     clearTimeout(this.setset);
     this.setset = setTimeout(() => {
@@ -46,11 +60,14 @@ class Cable extends React.Component {
       var between =
         page.offsetTop - scrollTop > Number(`-${girt}`) &&
         scrollTopAndHeight - page.offsetTop > Number(`-${girt}`);
-      if (between) {
-        !this.state.mount && this.setState({ mount: between }, () => {});
+
+      if (!this.state.mount) {
+        //console.log(between, page.offsetTop, scrollTop);
+        this.setState({ mount: between }, () => {});
       } else {
         var continuee = this.props.fwd.current;
-        if (!continuee && !cache) return;
+        //between && console.log(between, continuee.outerHTML);
+        //if (!continuee && !cache) return;
         /*const cacheStyle = JSON.parse(
           (cache ? cache : continuee.outerHTML)
             .split(`style="`)[1]
@@ -59,16 +76,16 @@ class Cable extends React.Component {
             .replaceAll(": ", `: "`)
         );*/
         //console.log(cacheStyle);
-        this.setState(
-          {
-            cache: cache ? cache : continuee.outerHTML,
+        //console.log(cache, continuee.offsetHeight, continuee.offsetWidth);
+        if (!cache && this.state.loaded) {
+          this.setState({
+            cache: continuee.outerHTML,
             //cacheStyle,
             frameheight: continuee.offsetHeight,
             framewidth: continuee.offsetWidth
-          },
-          () => {
-            if (!between) {
-              /* if (continuee) {
+          });
+        } else if (!between) {
+          /* if (continuee) {
                 
                 const children = [...continuee.children];
                 console.log(children);
@@ -88,21 +105,19 @@ class Cable extends React.Component {
                   gl.getExtension("WEBGL_lose_context").loseContext();
                 }
               }*/
-              continuee.remove();
-              return (page.innerHTML = "");
-            } else {
-              const children = [...page.children];
-              if (
-                continuee &&
-                (children.length === 0 ||
-                  !children.find((x) => x === this.state.cache))
-              ) {
-                console.log("replenishing, new scroll");
-                return (page.innerHTML = this.state.cache);
-              }
-            }
+          continuee.remove();
+          return (page.innerHTML = "");
+          // this.setState({ mount: false });
+        } else if (page.innerHTML === "") {
+          const children = [...page.children];
+          if (
+            cache &&
+            (children.length === 0 || !children.find((x) => x === cache))
+          ) {
+            //console.log("replenishing, new scroll", cache);
+            return (page.innerHTML = this.state.cache);
           }
-        );
+        }
       }
     }, timeou);
   };
@@ -115,7 +130,12 @@ class Cable extends React.Component {
       this.props.onError(e);
     }; //ternaries remove the node and element; display removes the element, but not the node
     //const parsedStyle = JSON.parse(`{ ${cacheStyle} }`);
-
+    const onLoad = (e) => {
+      console.log("loaded");
+      this.setState({
+        loaded: true
+      });
+    };
     return (
       <div
         ref={this.page}
@@ -123,13 +143,15 @@ class Cable extends React.Component {
           shapeOutside: "rect()",
           float,
           height: this.state.frameheight,
-          width: this.state.framewidth
+          width: this.state.framewidth,
+          ...this.props.style
         }}
       >
         {!mount || src === "" ? (
           <span style={{ border: "1px gray solid" }}>{title}</span>
         ) : img ? (
           <img
+            onLoad={onLoad}
             onError={onError}
             alt={title}
             style={{
@@ -144,6 +166,7 @@ class Cable extends React.Component {
           />
         ) : (
           <iframe
+            onLoad={onLoad}
             onError={onError}
             title={title}
             style={{
